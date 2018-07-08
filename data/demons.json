@@ -1,0 +1,5335 @@
+{
+  "Horus": {
+    "race": "Deity",
+    "level": 38,
+    "hp": 312,
+    "mp": 162,
+    "st": 12,
+    "ma": 16,
+    "vi": 14,
+    "ag": 21,
+    "lu": 10,
+    "affinities": {
+      "Repel": [
+        "Expel"
+      ],
+      "Weak": [
+        "Death"
+      ],
+      "Resist": [
+        "Physical"
+      ]
+    },
+    "skills": {
+      "Watchful": 0,
+      "Mahama": 0,
+      "Mana Gain": 39,
+      "Dekunda": 40,
+      "Liftoma": 41,
+      "Mediarama": 42,
+      "Violet Flash": 43
+    }
+  },
+  "Atavaka": {
+    "race": "Deity",
+    "level": 47,
+    "hp": 402,
+    "mp": 183,
+    "st": 24,
+    "ma": 14,
+    "vi": 20,
+    "ag": 10,
+    "lu": 14,
+    "affinities": {
+      "Repel": [
+        "Expel",
+        "Death"
+      ],
+      "Weak": [
+        "Mind",
+        "Nerve"
+      ]
+    },
+    "skills": {
+      "Might": 0,
+      "Mighty Gust": 0,
+      "Endure": 48,
+      "Binding Cry": 49,
+      "Retaliate": 50,
+      "Chaos Blade": 51
+    }
+  },
+  "Amaterasu": {
+    "race": "Deity",
+    "level": 56,
+    "hp": 438,
+    "mp": 237,
+    "st": 19,
+    "ma": 23,
+    "vi": 17,
+    "ag": 16,
+    "lu": 16,
+    "affinities": {
+      "Null": [
+        "Fire",
+        "Expel",
+        "Death"
+      ]
+    },
+    "skills": {
+      "Tetrakarn": 0,
+      "Proeminence": 0,
+      "Godly Light": 57,
+      "Debilitate": 58,
+      "Fire Repel": 59,
+      "Prayer": 60
+    }
+  },
+  "Odin": {
+    "race": "Deity",
+    "level": 65,
+    "hp": 498,
+    "mp": 270,
+    "st": 24,
+    "ma": 25,
+    "vi": 18,
+    "ag": 17,
+    "lu": 16,
+    "affinities": {
+      "Null": [
+        "Ice",
+        "Expel"
+      ],
+      "Weak": [
+        "Force"
+      ]
+    },
+    "skills": {
+      "Bufudyne": 0,
+      "Agidyne": 0,
+      "Deathbound": 66,
+      "Makajamon": 67,
+      "Wooing": 68,
+      "Mabufudyne": 69,
+      "Maragidyne": 70
+    }
+  },
+  "Mithra": {
+    "race": "Deity",
+    "level": 78,
+    "hp": 630,
+    "mp": 309,
+    "st": 27,
+    "ma": 25,
+    "vi": 27,
+    "ag": 16,
+    "lu": 18,
+    "affinities": {
+      "Repel": [
+        "Physical"
+      ],
+      "Null": [
+        "Expel",
+        "Death"
+      ],
+      "Weak": [
+        "Ice"
+      ]
+    },
+    "skills": {
+      "Debilitate": 0,
+      "Megidola": 0,
+      "Mamudoon": 0,
+      "Death Pact": 79,
+      "Holy Wrath": 80,
+      "Fog Breath": 81,
+      "Mahamaon": 82,
+      "Mana Surge": 83
+    }
+  },
+  "Vishnu": {
+    "race": "Deity",
+    "level": 93,
+    "hp": 708,
+    "mp": 384,
+    "st": 27,
+    "ma": 35,
+    "vi": 25,
+    "ag": 20,
+    "lu": 26,
+    "affinities": {
+      "Repel": [
+        "Expel"
+      ],
+      "Null": [
+        "Death"
+      ],
+      "Resist": [
+        "All"
+      ]
+    },
+    "skills": {
+      "Prayer": 0,
+      "Holy Wrath": 0,
+      "Hell Gaze": 0,
+      "Proeminence": 94,
+      "Hades Blast": 95,
+      "Radiance": 96,
+      "Phys Repel": 97
+    }
+  },
+  "Uzume": {
+    "race": "Megami",
+    "level": 18,
+    "hp": 156,
+    "mp": 90,
+    "st": 6,
+    "ma": 12,
+    "vi": 8,
+    "ag": 8,
+    "lu": 12,
+    "affinities": {
+      "Null": [
+        "Force",
+        "Expel"
+      ],
+      "Weak": [
+        "Elec"
+      ]
+    },
+    "skills": {
+      "Media": 0,
+      "Mazan": 0,
+      "Hama": 19,
+      "Seduce": 20,
+      "Stone Gaze": 21,
+      "Life Bonus": 22,
+      "Mana Refil": 23
+    }
+  },
+  "Sarasvati": {
+    "race": "Megami",
+    "level": 30,
+    "hp": 246,
+    "mp": 141,
+    "st": 9,
+    "ma": 17,
+    "vi": 11,
+    "ag": 9,
+    "lu": 12,
+    "affinities": {
+      "Null": [
+        "Expel",
+        "Ailments"
+      ],
+      "Weak": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Mute Gaze": 0,
+      "Mana Refil": 0,
+      "Recarm": 31,
+      "Seduce": 32,
+      "Mazanma": 33,
+      "Force Boost": 34
+    }
+  },
+  "Sati": {
+    "race": "Megami",
+    "level": 48,
+    "hp": 366,
+    "mp": 204,
+    "st": 11,
+    "ma": 20,
+    "vi": 13,
+    "ag": 15,
+    "lu": 17,
+    "affinities": {
+      "Repel": [
+        "Expel"
+      ],
+      "Weak": [
+        "Ice"
+      ],
+      "Drain": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Agidyne": 0,
+      "Recarm": 0,
+      "Sexy Gaze": 0,
+      "Maragidyne": 49,
+      "Makatora": 50,
+      "Pester": 51,
+      "Allure": 52
+    }
+  },
+  "Laksmi": {
+    "race": "Megami",
+    "level": 54,
+    "hp": 414,
+    "mp": 234,
+    "st": 14,
+    "ma": 24,
+    "vi": 15,
+    "ag": 13,
+    "lu": 16,
+    "affinities": {
+      "Repel": [
+        "Expel"
+      ],
+      "Null": [
+        "Ailments"
+      ],
+      "Weak": [
+        "Force"
+      ]
+    },
+    "skills": {
+      "Mediarahan": 0,
+      "Seduce": 0,
+      "Mana Aid": 55,
+      "Stone Gaze": 56,
+      "Mana Surge": 57,
+      "Samarecarm": 58,
+      "Recarmdra": 59
+    }
+  },
+  "Scathach": {
+    "race": "Megami",
+    "level": 64,
+    "hp": 486,
+    "mp": 270,
+    "st": 21,
+    "ma": 26,
+    "vi": 17,
+    "ag": 18,
+    "lu": 15,
+    "affinities": {
+      "Null": [
+        "Force",
+        "Expel",
+        "Curse"
+      ],
+      "Weak": [
+        "Elec"
+      ]
+    },
+    "skills": {
+      "Might": 0,
+      "Mazandyne": 0,
+      "Force Repel": 65,
+      "Dark Pledge": 66,
+      "Thunderclap": 67,
+      "Mana Aid": 68,
+      "Wind Cutter": 69
+    }
+  },
+  "Dionysus": {
+    "race": "Fury",
+    "level": 44,
+    "hp": 354,
+    "mp": 192,
+    "st": 16,
+    "ma": 20,
+    "vi": 15,
+    "ag": 13,
+    "lu": 15,
+    "affinities": {
+      "Null": [
+        "Fire",
+        "Expel",
+        "Death"
+      ],
+      "Weak": [
+        "Ice"
+      ]
+    },
+    "skills": {
+      "Maragion": 0,
+      "Void Fire": 0,
+      "Wine Party": 45,
+      "Dismal Tune": 46,
+      "Tempest": 47,
+      "Maragidyne": 48
+    }
+  },
+  "Wu Kong": {
+    "race": "Fury",
+    "level": 54,
+    "hp": 432,
+    "mp": 201,
+    "st": 22,
+    "ma": 13,
+    "vi": 18,
+    "ag": 20,
+    "lu": 16,
+    "affinities": {
+      "Null": [
+        "Expel",
+        "Death",
+        "Physical"
+      ]
+    },
+    "skills": {
+      "Hassohappa": 55,
+      "Dark Pledge": 56,
+      "Attack All": 57,
+      "Avenge": 58
+    }
+  },
+  "Beiji-weng": {
+    "race": "Fury",
+    "level": 61,
+    "hp": 504,
+    "mp": 255,
+    "st": 23,
+    "ma": 24,
+    "vi": 23,
+    "ag": 14,
+    "lu": 12,
+    "affinities": {
+      "Null": [
+        "Expel",
+        "Death"
+      ],
+      "Weak": [
+        "Fire"
+      ],
+      "Resist": [
+        "Physical"
+      ]
+    },
+    "skills": {
+      "Mana Aid": 0,
+      "Stasis Blade": 0,
+      "Thunderclap": 0,
+      "Hell Gaze": 62,
+      "Wooing": 63,
+      "Mamudoon": 64,
+      "Holy Wrath": 65
+    }
+  },
+  "Shiva": {
+    "race": "Fury",
+    "level": 95,
+    "hp": 786,
+    "mp": 363,
+    "st": 32,
+    "ma": 26,
+    "vi": 36,
+    "ag": 26,
+    "lu": 15,
+    "affinities": {
+      "Null": [
+        "Expel",
+        "Death"
+      ],
+      "Resist": [
+        "All"
+      ]
+    },
+    "skills": {
+      "Victory Cry": 0,
+      "Hassohappa": 0,
+      "Allure": 0,
+      "Bolt Storm": 96,
+      "Avenge": 97,
+      "Megidolaon": 98,
+      "Phys Drain": 99
+    }
+  },
+  "Kikuri-Hime": {
+    "race": "Lady",
+    "level": 24,
+    "hp": 210,
+    "mp": 120,
+    "st": 10,
+    "ma": 16,
+    "vi": 11,
+    "ag": 8,
+    "lu": 11,
+    "affinities": {
+      "Null": [
+        "Expel",
+        "Mind",
+        "Nerve"
+      ],
+      "Weak": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Diarama": 0,
+      "Sexy Gaze": 0,
+      "Maiden Plea": 25,
+      "Posumudi": 26,
+      "Mepatra": 27,
+      "Recarm": 28
+    }
+  },
+  "Kushinada": {
+    "race": "Lady",
+    "level": 41,
+    "hp": 330,
+    "mp": 180,
+    "st": 12,
+    "ma": 19,
+    "vi": 14,
+    "ag": 10,
+    "lu": 18,
+    "affinities": {
+      "Repel": [
+        "Expel"
+      ],
+      "Weak": [
+        "Death"
+      ]
+    },
+    "skills": {
+      "Mediarama": 0,
+      "Nag": 0,
+      "Toxic String": 0,
+      "Maragion": 42,
+      "Paraladi": 43,
+      "Lucky Find": 44,
+      "Beseech": 45
+    }
+  },
+  "Parvati": {
+    "race": "Lady",
+    "level": 57,
+    "hp": 432,
+    "mp": 240,
+    "st": 15,
+    "ma": 23,
+    "vi": 15,
+    "ag": 16,
+    "lu": 20,
+    "affinities": {
+      "Repel": [
+        "Expel"
+      ],
+      "Weak": [
+        "Ice"
+      ],
+      "Drain": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Mediarama": 58,
+      "Tetrakarn": 59,
+      "Thunderclap": 60,
+      "Radiance": 61
+    }
+  },
+  "Kali": {
+    "race": "Lady",
+    "level": 67,
+    "hp": 540,
+    "mp": 258,
+    "st": 25,
+    "ma": 19,
+    "vi": 23,
+    "ag": 19,
+    "lu": 13,
+    "affinities": {
+      "Repel": [
+        "Death"
+      ],
+      "Null": [
+        "Fire",
+        "Expel"
+      ],
+      "Weak": [
+        "Ice"
+      ]
+    },
+    "skills": {
+      "Tentarafoo": 0,
+      "Deathbound": 0,
+      "Avenge": 68,
+      "Fog Breath": 69,
+      "Life Surge": 70,
+      "Dark Sword": 71
+    }
+  },
+  "Skadi": {
+    "race": "Lady",
+    "level": 74,
+    "hp": 570,
+    "mp": 309,
+    "st": 23,
+    "ma": 29,
+    "vi": 21,
+    "ag": 18,
+    "lu": 15,
+    "affinities": {
+      "Null": [
+        "Force",
+        "Expel",
+        "Curse"
+      ],
+      "Weak": [
+        "Elec"
+      ]
+    },
+    "skills": {
+      "Makajamon": 75,
+      "Makakaja": 76,
+      "Elec Repel": 77,
+      "Earthquake": 78
+    }
+  },
+  "Minakata": {
+    "race": "Kishin",
+    "level": 17,
+    "hp": 168,
+    "mp": 75,
+    "st": 11,
+    "ma": 8,
+    "vi": 11,
+    "ag": 9,
+    "lu": 5,
+    "affinities": {
+      "Repel": [
+        "Elec"
+      ],
+      "Null": [
+        "Expel"
+      ],
+      "Weak": [
+        "Fire",
+        "Nerve"
+      ]
+    },
+    "skills": {
+      "Dark Might": 0,
+      "Mazio": 0,
+      "Zionga": 0,
+      "Makajam": 18,
+      "Intimidate": 19,
+      "Stun Gaze": 20,
+      "Dekaja": 21,
+      "Focus": 22
+    }
+  },
+  "Zouchou": {
+    "race": "Kishin",
+    "level": 27,
+    "hp": 234,
+    "mp": 111,
+    "st": 15,
+    "ma": 10,
+    "vi": 12,
+    "ag": 7,
+    "lu": 10,
+    "affinities": {
+      "Null": [
+        "Expel",
+        "Curse",
+        "Nerve"
+      ],
+      "Weak": [
+        "Force"
+      ]
+    },
+    "skills": {
+      "Brutal Slash": 0,
+      "Agilao": 0,
+      "Mahama": 0,
+      "Detain": 28,
+      "Hamaon": 29,
+      "Anti-Death": 30,
+      "Might": 31
+    }
+  },
+  "Koumoku": {
+    "race": "Kishin",
+    "level": 33,
+    "hp": 282,
+    "mp": 135,
+    "st": 16,
+    "ma": 12,
+    "vi": 14,
+    "ag": 9,
+    "lu": 9,
+    "affinities": {
+      "Repel": [
+        "Force"
+      ],
+      "Null": [
+        "Expel"
+      ],
+      "Weak": [
+        "Elec"
+      ]
+    },
+    "skills": {
+      "Mighty Gust": 0,
+      "Mazanma": 0,
+      "Life Gain": 34,
+      "Beseech": 35,
+      "Mana Bonus": 36,
+      "Tetraja": 37
+    }
+  },
+  "Okuninushi": {
+    "race": "Kishin",
+    "level": 39,
+    "hp": 312,
+    "mp": 165,
+    "st": 16,
+    "ma": 16,
+    "vi": 13,
+    "ag": 11,
+    "lu": 10,
+    "affinities": {
+      "Repel": [
+        "Expel"
+      ],
+      "Null": [
+        "Death"
+      ]
+    },
+    "skills": {
+      "Chaos Blade": 0,
+      "Mamudo": 0,
+      "Wooing": 40,
+      "Agidyne": 41,
+      "Makajamon": 42,
+      "Beckon Call": 43
+    }
+  },
+  "Mikazuchi": {
+    "race": "Kishin",
+    "level": 45,
+    "hp": 372,
+    "mp": 177,
+    "st": 19,
+    "ma": 14,
+    "vi": 17,
+    "ag": 11,
+    "lu": 11,
+    "affinities": {
+      "Repel": [
+        "Elec"
+      ],
+      "Null": [
+        "Expel"
+      ],
+      "Weak": [
+        "Force"
+      ]
+    },
+    "skills": {
+      "Ziodyne": 0,
+      "Shock": 0,
+      "Arbitration": 46,
+      "Dark Sword": 47,
+      "Life Refil": 48,
+      "Mazionga": 49
+    }
+  },
+  "Jikoku": {
+    "race": "Kishin",
+    "level": 52,
+    "hp": 426,
+    "mp": 204,
+    "st": 21,
+    "ma": 16,
+    "vi": 19,
+    "ag": 11,
+    "lu": 12,
+    "affinities": {
+      "Repel": [
+        "Ice"
+      ],
+      "Null": [
+        "Expel"
+      ],
+      "Weak": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Stasis Blade": 0,
+      "Diarahan": 0,
+      "Dekunda": 53,
+      "Bufudyne": 54,
+      "Dark Pledge": 55,
+      "Mazandyne": 56,
+      "Bolt Storm": 57
+    }
+  },
+  "Futomimi": {
+    "race": "Kishin",
+    "level": 63,
+    "hp": 498,
+    "mp": 267,
+    "st": 20,
+    "ma": 26,
+    "vi": 20,
+    "ag": 15,
+    "lu": 12,
+    "affinities": {
+      "Null": [
+        "Expel",
+        "Death",
+        "Ailments"
+      ],
+      "Resist": [
+        "Physical"
+      ]
+    },
+    "skills": {
+      "Focus": 0,
+      "War Cry": 0,
+      "Mute Gaze": 0,
+      "Lunge": 0,
+      "Might": 64,
+      "Life Surge": 65,
+      "Mana Surge": 66
+    }
+  },
+  "Bishamon": {
+    "race": "Kishin",
+    "level": 72,
+    "hp": 582,
+    "mp": 267,
+    "st": 25,
+    "ma": 17,
+    "vi": 25,
+    "ag": 17,
+    "lu": 15,
+    "affinities": {
+      "Repel": [
+        "Fire"
+      ],
+      "Null": [
+        "Expel"
+      ],
+      "Weak": [
+        "Ice"
+      ]
+    },
+    "skills": {
+      "Thunderclap": 0,
+      "Attack All": 0,
+      "Proeminence": 73,
+      "Fire Boost": 74,
+      "Detain": 75,
+      "Endure": 76,
+      "Hassohappa": 77
+    }
+  },
+  "Thor": {
+    "race": "Kishin",
+    "level": 76,
+    "hp": 612,
+    "mp": 288,
+    "st": 28,
+    "ma": 20,
+    "vi": 26,
+    "ag": 12,
+    "lu": 17,
+    "affinities": {
+      "Null": [
+        "Expel"
+      ],
+      "Weak": [
+        "Curse",
+        "Nerve"
+      ],
+      "Drain": [
+        "Elec"
+      ]
+    },
+    "skills": {
+      "Avenge": 0,
+      "Ziodyne": 0,
+      "Hades Blast": 0,
+      "Mediarahan": 77,
+      "Maziodyne": 78,
+      "Stasis Blade": 79,
+      "Fire Repel": 80
+    }
+  },
+  "Shiisaa": {
+    "race": "Holy",
+    "level": 13,
+    "hp": 120,
+    "mp": 57,
+    "st": 9,
+    "ma": 6,
+    "vi": 7,
+    "ag": 9,
+    "lu": 6,
+    "affinities": {
+      "Null": [
+        "Expel"
+      ],
+      "Weak": [
+        "Fire"
+      ],
+      "Drain": [
+        "Elec"
+      ]
+    },
+    "skills": {
+      "Shock": 0,
+      "Feral Claw": 0,
+      "War Cry": 14,
+      "Brainwash": 15,
+      "Stone Bite": 16,
+      "Counter": 17,
+      "Anti-Fire": 18
+    }
+  },
+  "Unicorn": {
+    "race": "Holy",
+    "level": 21,
+    "hp": 186,
+    "mp": 99,
+    "st": 9,
+    "ma": 12,
+    "vi": 10,
+    "ag": 7,
+    "lu": 7,
+    "affinities": {
+      "Null": [
+        "Expel",
+        "Mind",
+        "Curse"
+      ],
+      "Weak": [
+        "Elec"
+      ]
+    },
+    "skills": {
+      "Rakukaja": 0,
+      "Mabufu": 0,
+      "Media": 0,
+      "Life Refil": 22,
+      "Stun Bite": 23,
+      "Tetraja": 24,
+      "Mepatra": 25,
+      "Diarama": 26
+    }
+  },
+  "Senri": {
+    "race": "Holy",
+    "level": 27,
+    "hp": 216,
+    "mp": 123,
+    "st": 10,
+    "ma": 14,
+    "vi": 9,
+    "ag": 12,
+    "lu": 9,
+    "affinities": {
+      "Null": [
+        "Expel"
+      ],
+      "Weak": [
+        "Elec"
+      ],
+      "Drain": [
+        "Force"
+      ]
+    },
+    "skills": {
+      "Mazanma": 28,
+      "Lucky Find": 29,
+      "Stone Hunt": 30,
+      "Drain Attack": 31
+    }
+  },
+  "Feng Huang": {
+    "race": "Holy",
+    "level": 36,
+    "hp": 276,
+    "mp": 138,
+    "st": 10,
+    "ma": 10,
+    "vi": 10,
+    "ag": 17,
+    "lu": 13,
+    "affinities": {
+      "Null": [
+        "Expel"
+      ],
+      "Weak": [
+        "Ice"
+      ],
+      "Drain": [
+        "Elec"
+      ]
+    },
+    "skills": {
+      "Liftoma": 0,
+      "Wing Buffet": 0,
+      "Fire Breath": 0,
+      "Recarm": 37,
+      "Arbitration": 38,
+      "Mazionga": 39,
+      "Life Aid": 40
+    }
+  },
+  "Baihu": {
+    "race": "Holy",
+    "level": 43,
+    "hp": 348,
+    "mp": 153,
+    "st": 19,
+    "ma": 8,
+    "vi": 15,
+    "ag": 17,
+    "lu": 8,
+    "affinities": {
+      "Null": [
+        "Ice",
+        "Expel"
+      ],
+      "Weak": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Life Aid": 0,
+      "Stone Bite": 0,
+      "Ice Breath": 0,
+      "Might": 44,
+      "Beseech": 45,
+      "Focus": 46,
+      "Bufudyne": 47
+    }
+  },
+  "Chimera": {
+    "race": "Holy",
+    "level": 55,
+    "hp": 426,
+    "mp": 204,
+    "st": 23,
+    "ma": 13,
+    "vi": 16,
+    "ag": 17,
+    "lu": 10,
+    "affinities": {
+      "Null": [
+        "Expel"
+      ],
+      "Weak": [
+        "Mind",
+        "Nerve"
+      ],
+      "Drain": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Fire Breath": 0,
+      "Fire Boost": 0,
+      "War Cry": 0,
+      "Iron Claw": 56,
+      "Kidnap": 57,
+      "Kamikaze": 58,
+      "Sonic Wave": 59
+    }
+  },
+  "Erthys": {
+    "race": "Element",
+    "level": 7,
+    "hp": 90,
+    "mp": 36,
+    "st": 6,
+    "ma": 5,
+    "vi": 8,
+    "ag": 4,
+    "lu": 5,
+    "affinities": {
+      "Null": [
+        "Expel",
+        "Death"
+      ],
+      "Weak": [
+        "Force"
+      ]
+    },
+    "skills": {
+      "Zio": 0,
+      "Patra": 0,
+      "Rakukaja": 8,
+      "Anti-Curse": 9,
+      "Arbitration": 10,
+      "Mazio": 11
+    }
+  },
+  "Aeros": {
+    "race": "Element",
+    "level": 11,
+    "hp": 102,
+    "mp": 57,
+    "st": 5,
+    "ma": 8,
+    "vi": 6,
+    "ag": 8,
+    "lu": 5,
+    "affinities": {
+      "Null": [
+        "Expel",
+        "Death"
+      ],
+      "Resist": [
+        "Magic"
+      ]
+    },
+    "skills": {
+      "Dia": 0,
+      "Zio": 0,
+      "Lullaby": 12,
+      "Marin Karin": 13,
+      "Anti-Mind": 14,
+      "Toxic String": 15
+    }
+  },
+  "Aquans": {
+    "race": "Element",
+    "level": 15,
+    "hp": 126,
+    "mp": 75,
+    "st": 6,
+    "ma": 10,
+    "vi": 6,
+    "ag": 6,
+    "lu": 8,
+    "affinities": {
+      "Repel": [
+        "Ice",
+        "Expel",
+        "Death"
+      ],
+      "Weak": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Sukukaja": 0,
+      "Anti-Expel": 0,
+      "Mabufu": 16,
+      "Anti-Nerve": 17,
+      "Life Bonus": 18,
+      "Bufula": 19
+    }
+  },
+  "Flaemis": {
+    "race": "Element",
+    "level": 20,
+    "hp": 156,
+    "mp": 96,
+    "st": 10,
+    "ma": 12,
+    "vi": 6,
+    "ag": 6,
+    "lu": 7,
+    "affinities": {
+      "Null": [
+        "Expel",
+        "Death"
+      ],
+      "Weak": [
+        "Ice"
+      ],
+      "Drain": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Maragi": 0,
+      "Bright Might": 0,
+      "Makakaja": 21,
+      "Media": 22,
+      "Void Mind": 23,
+      "Agilao": 24
+    }
+  },
+  "Ara Mitama": {
+    "race": "Mitama",
+    "level": 25,
+    "hp": 210,
+    "mp": 105,
+    "st": 12,
+    "ma": 10,
+    "vi": 10,
+    "ag": 10,
+    "lu": 10,
+    "affinities": {
+      "Null": [
+        "Expel",
+        "Death",
+        "Ailments"
+      ]
+    },
+    "skills": {
+      "Tarukaja": 0,
+      "Bright Might": 0,
+      "Analyze": 0,
+      "Life Aid": 26,
+      "Life Refil": 27,
+      "Counter": 28,
+      "Lunge": 29
+    }
+  },
+  "Nigi Mitama": {
+    "race": "Mitama",
+    "level": 29,
+    "hp": 234,
+    "mp": 117,
+    "st": 10,
+    "ma": 10,
+    "vi": 10,
+    "ag": 16,
+    "lu": 10,
+    "affinities": {
+      "Null": [
+        "Expel",
+        "Death",
+        "Ailments"
+      ]
+    },
+    "skills": {
+      "Rakunda": 0,
+      "Persuade": 0,
+      "Analyze": 0,
+      "Fire Boost": 30,
+      "Ice Boost": 31,
+      "Elec Boost": 32,
+      "Force Boost": 34
+    }
+  },
+  "Kusi Mitama": {
+    "race": "Mitama",
+    "level": 32,
+    "hp": 240,
+    "mp": 150,
+    "st": 9,
+    "ma": 18,
+    "vi": 8,
+    "ag": 12,
+    "lu": 12,
+    "affinities": {
+      "Null": [
+        "Expel",
+        "Death",
+        "Ailments"
+      ]
+    },
+    "skills": {
+      "Sukukaja": 0,
+      "Dekaja": 0,
+      "Analyze": 0,
+      "Anti-Force": 33,
+      "Anti-Ice": 34,
+      "Anti-Elec": 35,
+      "Anti-Fire": 36
+    }
+  },
+  "Saki Mitama": {
+    "race": "Mitama",
+    "level": 35,
+    "hp": 270,
+    "mp": 138,
+    "st": 10,
+    "ma": 11,
+    "vi": 10,
+    "ag": 11,
+    "lu": 20,
+    "affinities": {
+      "Null": [
+        "Expel",
+        "Death",
+        "Ailments"
+      ]
+    },
+    "skills": {
+      "Dormina": 0,
+      "Trade": 0,
+      "Analyze": 0,
+      "Mazanma": 36,
+      "Mediarama": 37,
+      "Mazionga": 38,
+      "Tetrakarn": 39
+    }
+  },
+  "Asparas": {
+    "race": "Yoma",
+    "level": 8,
+    "hp": 84,
+    "mp": 42,
+    "st": 6,
+    "ma": 6,
+    "vi": 6,
+    "ag": 5,
+    "lu": 5,
+    "affinities": {
+      "Weak": [
+        "Fire"
+      ],
+      "Drain": [
+        "Elec"
+      ]
+    },
+    "skills": {
+      "Lullaby": 0,
+      "Seduce": 0,
+      "Mute Gaze": 0,
+      "Mazio": 9,
+      "Anti-Mind": 10,
+      "Makajam": 11,
+      "Dormina": 12
+    }
+  },
+  "Isora": {
+    "race": "Yoma",
+    "level": 14,
+    "hp": 132,
+    "mp": 66,
+    "st": 9,
+    "ma": 8,
+    "vi": 8,
+    "ag": 6,
+    "lu": 3,
+    "affinities": {
+      "Weak": [
+        "Fire"
+      ],
+      "Resist": [
+        "Ice"
+      ]
+    },
+    "skills": {
+      "Analyze": 0,
+      "Venom Bite": 0,
+      "Kidnap": 15,
+      "Lullaby": 16,
+      "Ice Breath": 17,
+      "Media": 18
+    }
+  },
+  "Koppa": {
+    "race": "Yoma",
+    "level": 19,
+    "hp": 144,
+    "mp": 87,
+    "st": 7,
+    "ma": 10,
+    "vi": 5,
+    "ag": 13,
+    "lu": 8,
+    "affinities": {
+      "Null": [
+        "Force"
+      ],
+      "Weak": [
+        "Curse"
+      ]
+    },
+    "skills": {
+      "Wing Buffet": 0,
+      "Tarukaja": 0,
+      "Watchful": 20,
+      "Shibaboo": 21,
+      "Makatora": 22,
+      "Kamikaze": 23,
+      "Zanma": 24
+    }
+  },
+  "Dis": {
+    "race": "Yoma",
+    "level": 23,
+    "hp": 198,
+    "mp": 111,
+    "st": 10,
+    "ma": 14,
+    "vi": 10,
+    "ag": 7,
+    "lu": 6,
+    "affinities": {
+      "Drain": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Tetraja": 0,
+      "Agilao": 0,
+      "Makajam": 0,
+      "Diarama": 24,
+      "Stone Gaze": 25,
+      "Makatora": 26,
+      "Mepatra": 27
+    }
+  },
+  "Karasu": {
+    "race": "Yoma",
+    "level": 28,
+    "hp": 234,
+    "mp": 117,
+    "st": 12,
+    "ma": 11,
+    "vi": 11,
+    "ag": 10,
+    "lu": 8,
+    "affinities": {
+      "Repel": [
+        "Force"
+      ],
+      "Weak": [
+        "Curse"
+      ]
+    },
+    "skills": {
+      "Wing Buffet": 0,
+      "Tarukaja": 0,
+      "Mana Gain": 29,
+      "Gonnection": 30,
+      "Mahama": 31,
+      "Might": 32,
+      "Tornado": 33
+    }
+  },
+  "Onkot": {
+    "race": "Yoma",
+    "level": 37,
+    "hp": 288,
+    "mp": 138,
+    "st": 14,
+    "ma": 9,
+    "vi": 11,
+    "ag": 15,
+    "lu": 12,
+    "affinities": {
+      "Weak": [
+        "Curse",
+        "Nerve"
+      ],
+      "Resist": [
+        "Physical"
+      ]
+    },
+    "skills": {
+      "Might": 0,
+      "Beserk": 0,
+      "Tarukaja": 0,
+      "Tetrakarn": 38,
+      "Brutal Slash": 39,
+      "Stone Hunt": 40,
+      "Sukukaja": 41,
+      "Sacrifice": 42
+    }
+  },
+  "Jinn": {
+    "race": "Yoma",
+    "level": 44,
+    "hp": 342,
+    "mp": 189,
+    "st": 14,
+    "ma": 19,
+    "vi": 13,
+    "ag": 14,
+    "lu": 8,
+    "affinities": {
+      "Weak": [
+        "Nerve"
+      ],
+      "Drain": [
+        "Force"
+      ]
+    },
+    "skills": {
+      "Force Boost": 0,
+      "Zandyne": 0,
+      "Mazanma": 0,
+      "Diarama": 45,
+      "Kamikaze": 46,
+      "Flatter": 47,
+      "Taunt": 48
+    }
+  },
+  "Purski": {
+    "race": "Yoma",
+    "level": 48,
+    "hp": 390,
+    "mp": 189,
+    "st": 19,
+    "ma": 15,
+    "vi": 17,
+    "ag": 9,
+    "lu": 12,
+    "affinities": {
+      "Null": [
+        "Force",
+        "Expel"
+      ],
+      "Weak": [
+        "Elec"
+      ]
+    },
+    "skills": {
+      "Binding Cry": 0,
+      "Watchful": 0,
+      "Scout": 0,
+      "Stasis Blade": 49,
+      "Panic Voice": 50,
+      "Force Boost": 51,
+      "Chaos Blade": 52,
+      "Mazandyne": 53
+    }
+  },
+  "Efreet": {
+    "race": "Yoma",
+    "level": 52,
+    "hp": 402,
+    "mp": 225,
+    "st": 15,
+    "ma": 23,
+    "vi": 15,
+    "ag": 14,
+    "lu": 9,
+    "affinities": {
+      "Weak": [
+        "Ice"
+      ],
+      "Drain": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Agidyne": 0,
+      "Taunt": 0,
+      "Makakaja": 53,
+      "Mana Refil": 54,
+      "Maragidyne": 55,
+      "Beckon Call": 56,
+      "Proeminence": 57
+    }
+  },
+  "Pixie": {
+    "race": "Fairy",
+    "level": 2,
+    "hp": 36,
+    "mp": 24,
+    "st": 3,
+    "ma": 6,
+    "vi": 4,
+    "ag": 2,
+    "lu": 7,
+    "affinities": {
+      "Resist": [
+        "Elec"
+      ]
+    },
+    "skills": {
+      "Dia": 0,
+      "Zio": 0,
+      "Seduce": 3,
+      "Rakunda": 4,
+      "Posumudi": 5,
+      "Wing Buffet": 6
+    }
+  },
+  "Jack Frost": {
+    "race": "Fairy",
+    "level": 7,
+    "hp": 78,
+    "mp": 45,
+    "st": 5,
+    "ma": 8,
+    "vi": 6,
+    "ag": 4,
+    "lu": 4,
+    "affinities": {
+      "Weak": [
+        "Fire"
+      ],
+      "Drain": [
+        "Ice"
+      ]
+    },
+    "skills": {
+      "Bufu": 0,
+      "Gonnection": 0,
+      "Dark Might": 0,
+      "Mabufu": 8,
+      "Trade": 9,
+      "Ice Breath": 10,
+      "Life Refil": 11
+    }
+  },
+  "High Pixie": {
+    "race": "Fairy",
+    "level": 10,
+    "hp": 84,
+    "mp": 48,
+    "st": 4,
+    "ma": 6,
+    "vi": 4,
+    "ag": 6,
+    "lu": 10,
+    "affinities": {
+      "Resist": [
+        "Elec"
+      ]
+    },
+    "skills": {
+      "Zio": 0,
+      "Wing Buffet": 0,
+      "Paraladi": 11,
+      "Mepatra": 12,
+      "Pester": 13,
+      "Lucky Find": 14,
+      "Trafuri": 15
+    }
+  },
+  "Pyro Jack": {
+    "race": "Fairy",
+    "level": 19,
+    "hp": 162,
+    "mp": 87,
+    "st": 8,
+    "ma": 10,
+    "vi": 8,
+    "ag": 6,
+    "lu": 7,
+    "affinities": {
+      "Weak": [
+        "Ice"
+      ],
+      "Drain": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Agi": 0,
+      "Maragi": 0,
+      "Nag": 0,
+      "Stun Gaze": 20,
+      "Lunge": 21,
+      "Agilao": 22,
+      "Anti-Ice": 23
+    }
+  },
+  "Kelpie": {
+    "race": "Fairy",
+    "level": 26,
+    "hp": 210,
+    "mp": 117,
+    "st": 9,
+    "ma": 13,
+    "vi": 9,
+    "ag": 8,
+    "lu": 7,
+    "affinities": {
+      "Weak": [
+        "Force"
+      ],
+      "Resist": [
+        "Ice"
+      ]
+    },
+    "skills": {
+      "Pulinpa": 0,
+      "Arbitration": 0,
+      "Paraladi": 0,
+      "Stun Bite": 27,
+      "Void Nerve": 28,
+      "Marin Karin": 29,
+      "Diarama": 30
+    }
+  },
+  "Troll": {
+    "race": "Fairy",
+    "level": 38,
+    "hp": 354,
+    "mp": 144,
+    "st": 14,
+    "ma": 10,
+    "vi": 21,
+    "ag": 4,
+    "lu": 9,
+    "affinities": {
+      "Weak": [
+        "Mind"
+      ],
+      "Drain": [
+        "Ice"
+      ]
+    },
+    "skills": {
+      "Begging": 0,
+      "Mutudi": 0,
+      "Mabufula": 39,
+      "Beserk": 40,
+      "Life Gain": 41,
+      "Lightoma": 42,
+      "Diarahan": 43
+    }
+  },
+  "Setenta": {
+    "race": "Fairy",
+    "level": 43,
+    "hp": 378,
+    "mp": 165,
+    "st": 17,
+    "ma": 12,
+    "vi": 20,
+    "ag": 12,
+    "lu": 6,
+    "affinities": {
+      "Repel": [
+        "Force"
+      ],
+      "Weak": [
+        "Curse",
+        "Nerve"
+      ]
+    },
+    "skills": {
+      "Estoma": 0,
+      "Guillotine": 0,
+      "Sukukaja": 0,
+      "Retaliate": 44,
+      "Taunt": 45,
+      "Void Curse": 46,
+      "Wooing": 47,
+      "Tempest": 48
+    }
+  },
+  "Oberon": {
+    "race": "Fairy",
+    "level": 46,
+    "hp": 354,
+    "mp": 195,
+    "st": 16,
+    "ma": 19,
+    "vi": 13,
+    "ag": 8,
+    "lu": 10,
+    "affinities": {
+      "Weak": [
+        "Curse"
+      ],
+      "Resist": [
+        "Physical"
+      ]
+    },
+    "skills": {
+      "Heat Wave": 0,
+      "Wooing": 0,
+      "Mediarama": 0,
+      "Makarakarn": 47,
+      "Diarahan": 48,
+      "Tornado": 49,
+      "Bufudyne": 50,
+      "Ziodyne": 51
+    }
+  },
+  "Titania": {
+    "race": "Fairy",
+    "level": 57,
+    "hp": 432,
+    "mp": 240,
+    "st": 14,
+    "ma": 23,
+    "vi": 15,
+    "ag": 12,
+    "lu": 13,
+    "affinities": {
+      "Repel": [
+        "Expel",
+        "Death"
+      ],
+      "Resist": [
+        "Magic"
+      ]
+    },
+    "skills": {
+      "Glacial Blast": 0,
+      "Pester": 0,
+      "Mediarahan": 58,
+      "Pulinpa": 59,
+      "Charisma": 60,
+      "Mana Surge": 61,
+      "Prayer": 62
+    }
+  },
+  "Angel": {
+    "race": "Divine",
+    "level": 11,
+    "hp": 108,
+    "mp": 54,
+    "st": 4,
+    "ma": 7,
+    "vi": 7,
+    "ag": 7,
+    "lu": 6,
+    "affinities": {
+      "Repel": [
+        "Expel"
+      ],
+      "Weak": [
+        "Force",
+        "Death"
+      ]
+    },
+    "skills": {
+      "Dia": 0,
+      "Hama": 0,
+      "Detain": 12,
+      "Patra": 13,
+      "Petradi": 14,
+      "Stun Needle": 15,
+      "Life Aid": 16
+    }
+  },
+  "Archangel": {
+    "race": "Divine",
+    "level": 18,
+    "hp": 156,
+    "mp": 72,
+    "st": 11,
+    "ma": 6,
+    "vi": 8,
+    "ag": 7,
+    "lu": 6,
+    "affinities": {
+      "Repel": [
+        "Expel"
+      ],
+      "Weak": [
+        "Ice",
+        "Death"
+      ]
+    },
+    "skills": {
+      "Tarukaja": 0,
+      "Mighty Gust": 0,
+      "Hama": 19,
+      "Estoma": 20,
+      "Wing Buffet": 21,
+      "Persuade": 22,
+      "Diarama": 23
+    }
+  },
+  "Principality": {
+    "race": "Divine",
+    "level": 28,
+    "hp": 222,
+    "mp": 120,
+    "st": 11,
+    "ma": 12,
+    "vi": 9,
+    "ag": 7,
+    "lu": 9,
+    "affinities": {
+      "Repel": [
+        "Expel"
+      ],
+      "Weak": [
+        "Death",
+        "Mind"
+      ]
+    },
+    "skills": {
+      "Bright Might": 0,
+      "Zanma": 0,
+      "Gonnection": 0,
+      "Diarama": 29,
+      "Mana Bonus": 30,
+      "Hamaon": 31,
+      "Heat Wave": 32
+    }
+  },
+  "Power": {
+    "race": "Divine",
+    "level": 33,
+    "hp": 294,
+    "mp": 123,
+    "st": 16,
+    "ma": 8,
+    "vi": 16,
+    "ag": 7,
+    "lu": 6,
+    "affinities": {
+      "Repel": [
+        "Expel"
+      ],
+      "Weak": [
+        "Death",
+        "Nerve"
+      ]
+    },
+    "skills": {
+      "Dark Might": 0,
+      "Brainwash": 0,
+      "Tarukaja": 0,
+      "Guillotine": 34,
+      "Mahama": 35,
+      "Hamaon": 36,
+      "Void Nerve": 37
+    }
+  },
+  "Virtue": {
+    "race": "Divine",
+    "level": 41,
+    "hp": 348,
+    "mp": 174,
+    "st": 12,
+    "ma": 17,
+    "vi": 17,
+    "ag": 8,
+    "lu": 7,
+    "affinities": {
+      "Repel": [
+        "Expel"
+      ],
+      "Weak": [
+        "Force",
+        "Death"
+      ]
+    },
+    "skills": {
+      "Mahama": 0,
+      "Detain": 0,
+      "Mediarama": 0,
+      "Arid Needle": 42,
+      "Makarakarn": 43,
+      "Mazionga": 44,
+      "Thunderclap": 45
+    }
+  },
+  "Dominion": {
+    "race": "Divine",
+    "level": 50,
+    "hp": 390,
+    "mp": 204,
+    "st": 15,
+    "ma": 18,
+    "vi": 15,
+    "ag": 11,
+    "lu": 11,
+    "affinities": {
+      "Repel": [
+        "Expel"
+      ],
+      "Weak": [
+        "Death",
+        "Curse"
+      ]
+    },
+    "skills": {
+      "Diarahan": 0,
+      "Violet Flash": 0,
+      "Tetrakarn": 51,
+      "Persuade": 52,
+      "Makakaja": 53,
+      "Makajam": 54,
+      "Mahamaon": 55
+    }
+  },
+  "Throne": {
+    "race": "Divine",
+    "level": 64,
+    "hp": 492,
+    "mp": 258,
+    "st": 18,
+    "ma": 22,
+    "vi": 18,
+    "ag": 15,
+    "lu": 15,
+    "affinities": {
+      "Repel": [
+        "Expel"
+      ],
+      "Weak": [
+        "Ice",
+        "Death"
+      ],
+      "Drain": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Mahamaon": 0,
+      "Proeminence": 0,
+      "Brainwash": 0,
+      "Mediarahan": 65,
+      "Mute Gaze": 66,
+      "Holy Wrath": 67,
+      "Debilitate": 68
+    }
+  },
+  "Forneus": {
+    "race": "Fallen",
+    "level": 20,
+    "hp": 180,
+    "mp": 81,
+    "st": 10,
+    "ma": 7,
+    "vi": 10,
+    "ag": 5,
+    "lu": 8,
+    "affinities": {
+      "Null": [
+        "Death"
+      ],
+      "Weak": [
+        "Elec"
+      ],
+      "Drain": [
+        "Ice"
+      ]
+    },
+    "skills": {
+      "Stun Bite": 0,
+      "Riberama": 0,
+      "Bufula": 21,
+      "Loan": 22,
+      "Fog Breath": 23,
+      "Anti-Elec": 24,
+      "Mabufula": 25
+    }
+  },
+  "Eligor": {
+    "race": "Fallen",
+    "level": 29,
+    "hp": 258,
+    "mp": 114,
+    "st": 14,
+    "ma": 9,
+    "vi": 14,
+    "ag": 6,
+    "lu": 6,
+    "affinities": {
+      "Null": [
+        "Death"
+      ],
+      "Weak": [
+        "Elec"
+      ],
+      "Resist": [
+        "Physical"
+      ]
+    },
+    "skills": {
+      "Hell Thrust": 0,
+      "Rakukaja": 0,
+      "Dark Might": 0,
+      "Mudo": 30,
+      "Beserk": 31,
+      "Riberama": 32,
+      "Intimidate": 33,
+      "Stone Gaze": 34
+    }
+  },
+  "Berith": {
+    "race": "Fallen",
+    "level": 37,
+    "hp": 324,
+    "mp": 141,
+    "st": 16,
+    "ma": 10,
+    "vi": 17,
+    "ag": 8,
+    "lu": 6,
+    "affinities": {
+      "Null": [
+        "Death"
+      ],
+      "Weak": [
+        "Ice"
+      ],
+      "Resist": [
+        "Physical"
+      ],
+      "Drain": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Mudo": 0,
+      "Kidnap": 0,
+      "Heat Wave": 0,
+      "Dekaja": 38,
+      "Maragion": 39,
+      "Dismal Tune": 40,
+      "Fire Boost": 41,
+      "Hellfire": 42
+    }
+  },
+  "Ose": {
+    "race": "Fallen",
+    "level": 45,
+    "hp": 354,
+    "mp": 168,
+    "st": 17,
+    "ma": 11,
+    "vi": 14,
+    "ag": 12,
+    "lu": 11,
+    "affinities": {
+      "Null": [
+        "Death"
+      ],
+      "Weak": [
+        "Nerve"
+      ]
+    },
+    "skills": {
+      "Rakukaja": 0,
+      "War Cry": 0,
+      "Blight": 0,
+      "Dekaja": 46,
+      "Dekunda": 47,
+      "Threaten": 48,
+      "Focus": 49,
+      "Makarakarn": 50
+    }
+  },
+  "Decarabia": {
+    "race": "Fallen",
+    "level": 58,
+    "hp": 450,
+    "mp": 240,
+    "st": 15,
+    "ma": 22,
+    "vi": 17,
+    "ag": 12,
+    "lu": 12,
+    "affinities": {
+      "Null": [
+        "Death"
+      ],
+      "Resist": [
+        "Magic"
+      ]
+    },
+    "skills": {
+      "Analyze": 0,
+      "Haggle": 0,
+      "Tetrakarn": 0,
+      "Sukukaja": 59,
+      "Hell Gaze": 60,
+      "Eternal Rest": 61,
+      "Trafuri": 62,
+      "Megido": 63
+    }
+  },
+  "Flauros": {
+    "race": "Fallen",
+    "level": 68,
+    "hp": 540,
+    "mp": 246,
+    "st": 27,
+    "ma": 14,
+    "vi": 22,
+    "ag": 13,
+    "lu": 12,
+    "affinities": {
+      "Repel": [
+        "Death"
+      ],
+      "Weak": [
+        "Nerve"
+      ]
+    },
+    "skills": {
+      "Iron Claw": 0,
+      "Threaten": 0,
+      "War Cry": 0,
+      "Deathbound": 69,
+      "Endure": 70,
+      "Hades Blast": 71,
+      "Life Surge": 72,
+      "Hassohappa": 73
+    }
+  },
+  "Nozuchi": {
+    "race": "Snake",
+    "level": 14,
+    "hp": 144,
+    "mp": 60,
+    "st": 11,
+    "ma": 6,
+    "vi": 10,
+    "ag": 4,
+    "lu": 7,
+    "affinities": {
+      "Weak": [
+        "Elec"
+      ],
+      "Drain": [
+        "Force"
+      ]
+    },
+    "skills": {
+      "Lunge": 0,
+      "Toxic Cloud": 0,
+      "Counter": 15,
+      "Flatter": 16,
+      "Rakukaja": 17,
+      "Sacrifice": 18
+    }
+  },
+  "Naga": {
+    "race": "Snake",
+    "level": 28,
+    "hp": 264,
+    "mp": 108,
+    "st": 13,
+    "ma": 8,
+    "vi": 16,
+    "ag": 7,
+    "lu": 8,
+    "affinities": {
+      "Weak": [
+        "Fire"
+      ],
+      "Drain": [
+        "Elec"
+      ]
+    },
+    "skills": {
+      "Drain Attack": 0,
+      "Tarukaja": 0,
+      "Trade": 0,
+      "Life Gain": 29,
+      "Fog Breath": 30,
+      "Hell Thrust": 31,
+      "Zionga": 32
+    }
+  },
+  "Mizuchi": {
+    "race": "Snake",
+    "level": 34,
+    "hp": 318,
+    "mp": 141,
+    "st": 12,
+    "ma": 13,
+    "vi": 19,
+    "ag": 7,
+    "lu": 7,
+    "affinities": {
+      "Null": [
+        "Ice",
+        "Death"
+      ],
+      "Weak": [
+        "Fire"
+      ],
+      "Drain": [
+        "Elec"
+      ]
+    },
+    "skills": {
+      "Bufula": 0,
+      "Mabufula": 0,
+      "Makakaja": 0,
+      "Makarakarn": 35,
+      "Mepatra": 36,
+      "Beserk": 37,
+      "Fog Breath": 38
+    }
+  },
+  "Raja Naga": {
+    "race": "Snake",
+    "level": 37,
+    "hp": 348,
+    "mp": 138,
+    "st": 15,
+    "ma": 9,
+    "vi": 21,
+    "ag": 8,
+    "lu": 9,
+    "affinities": {
+      "Weak": [
+        "Fire"
+      ],
+      "Resist": [
+        "Physical"
+      ],
+      "Drain": [
+        "Elec"
+      ]
+    },
+    "skills": {
+      "Drain Attack": 0,
+      "Tarukaja": 0,
+      "Counter": 38,
+      "Shock": 39,
+      "Wooing": 40,
+      "Tempest": 41,
+      "Void Fire": 42
+    }
+  },
+  "Quetzalcoatl": {
+    "race": "Snake",
+    "level": 55,
+    "hp": 492,
+    "mp": 201,
+    "st": 16,
+    "ma": 12,
+    "vi": 27,
+    "ag": 9,
+    "lu": 7,
+    "affinities": {
+      "Null": [
+        "Ice"
+      ],
+      "Weak": [
+        "Elec"
+      ],
+      "Resist": [
+        "Physical"
+      ]
+    },
+    "skills": {
+      "Stone Bite": 0,
+      "Gonnection": 0,
+      "Glacial Blast": 0,
+      "Beserk": 56,
+      "Ice Boost": 57,
+      "Ice Drain": 58,
+      "Toxic Cloud": 59,
+      "Recarmdra": 60
+    }
+  },
+  "Yurlungur": {
+    "race": "Snake",
+    "level": 66,
+    "hp": 576,
+    "mp": 246,
+    "st": 18,
+    "ma": 16,
+    "vi": 30,
+    "ag": 9,
+    "lu": 13,
+    "affinities": {
+      "Null": [
+        "Magic"
+      ],
+      "Weak": [
+        "Ailments"
+      ]
+    },
+    "skills": {
+      "Ziodyne": 0,
+      "Rakukaja": 0,
+      "Bolt Storm": 0,
+      "Elec Boost": 67,
+      "Mediarahan": 68,
+      "Samarecarm": 69,
+      "Wind Cutter": 70
+    }
+  },
+  "Inugami": {
+    "race": "Beast",
+    "level": 13,
+    "hp": 132,
+    "mp": 60,
+    "st": 10,
+    "ma": 7,
+    "vi": 9,
+    "ag": 6,
+    "lu": 5,
+    "affinities": {
+      "Null": [
+        "Fire",
+        "Death"
+      ],
+      "Weak": [
+        "Force"
+      ]
+    },
+    "skills": {
+      "Fire Breath": 0,
+      "Feral Bite": 0,
+      "Media": 14,
+      "Rakunda": 15,
+      "Fog Breath": 16,
+      "Panic Voice": 17
+    }
+  },
+  "Nekomata": {
+    "race": "Beast",
+    "level": 18,
+    "hp": 156,
+    "mp": 90,
+    "st": 7,
+    "ma": 12,
+    "vi": 8,
+    "ag": 7,
+    "lu": 7,
+    "affinities": {
+      "Weak": [
+        "Elec"
+      ],
+      "Drain": [
+        "Force"
+      ]
+    },
+    "skills": {
+      "Stun Needle": 0,
+      "Marin Karin": 0,
+      "Paraladi": 0,
+      "Mana Bonus": 19,
+      "Feral Claw": 20,
+      "Pester": 21,
+      "Mute Gaze": 22
+    }
+  },
+  "Badb Catha": {
+    "race": "Beast",
+    "level": 23,
+    "hp": 186,
+    "mp": 87,
+    "st": 11,
+    "ma": 6,
+    "vi": 8,
+    "ag": 12,
+    "lu": 6,
+    "affinities": {
+      "Weak": [
+        "Elec"
+      ],
+      "Resist": [
+        "Physical"
+      ]
+    },
+    "skills": {
+      "Liftoma": 0,
+      "Needle Rush": 0,
+      "Detain": 24,
+      "Wing Buffet": 25,
+      "Anti-Force": 26,
+      "Mana Aid": 27
+    }
+  },
+  "Orthrus": {
+    "race": "Beast",
+    "level": 34,
+    "hp": 282,
+    "mp": 126,
+    "st": 16,
+    "ma": 8,
+    "vi": 13,
+    "ag": 11,
+    "lu": 6,
+    "affinities": {
+      "Weak": [
+        "Ice"
+      ],
+      "Drain": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Fire Breath": 0,
+      "Stun Claw": 0,
+      "Fire Boost": 35,
+      "Scout": 36,
+      "War Cry": 37,
+      "Hell Fang": 38
+    }
+  },
+  "Sparna": {
+    "race": "Beast",
+    "level": 54,
+    "hp": 408,
+    "mp": 219,
+    "st": 13,
+    "ma": 19,
+    "vi": 14,
+    "ag": 22,
+    "lu": 11,
+    "affinities": {
+      "Repel": [
+        "Force"
+      ],
+      "Null": [
+        "Ailments"
+      ]
+    },
+    "skills": {
+      "Zandyne": 0,
+      "Fog Breath": 0,
+      "Sukukaja": 0,
+      "Mazandyne": 55,
+      "Venom Claw": 56,
+      "Stone Hunt": 57,
+      "Diarahan": 58
+    }
+  },
+  "Cerberus": {
+    "race": "Beast",
+    "level": 61,
+    "hp": 456,
+    "mp": 225,
+    "st": 23,
+    "ma": 14,
+    "vi": 15,
+    "ag": 17,
+    "lu": 12,
+    "affinities": {
+      "Repel": [
+        "Fire"
+      ],
+      "Weak": [
+        "Ice"
+      ],
+      "Resist": [
+        "Physical"
+      ]
+    },
+    "skills": {
+      "Iron Claw": 0,
+      "Binding Cry": 0,
+      "Fog Breath": 0,
+      "Retaliate": 62,
+      "Detain": 63,
+      "Hellfire": 64,
+      "Attack All": 65
+    }
+  },
+  "Kodama": {
+    "race": "Jirae",
+    "level": 3,
+    "hp": 42,
+    "mp": 21,
+    "st": 4,
+    "ma": 4,
+    "vi": 4,
+    "ag": 6,
+    "lu": 5,
+    "affinities": {
+      "Weak": [
+        "Fire"
+      ],
+      "Resist": [
+        "Force"
+      ]
+    },
+    "skills": {
+      "Zan": 0,
+      "Gonnection": 0,
+      "Dia": 4,
+      "Lunge": 5,
+      "Scout": 6,
+      "Anti-Force": 7
+    }
+  },
+  "Hua Po": {
+    "race": "Jirae",
+    "level": 5,
+    "hp": 60,
+    "mp": 30,
+    "st": 4,
+    "ma": 5,
+    "vi": 5,
+    "ag": 6,
+    "lu": 5,
+    "affinities": {
+      "Weak": [
+        "Ice"
+      ],
+      "Resist": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Agi": 0,
+      "Pester": 0,
+      "Patra": 6,
+      "Nag": 7,
+      "Sexy Gaze": 8,
+      "Rakukaja": 9,
+      "Maragi": 10
+    }
+  },
+  "Sudama": {
+    "race": "Jirae",
+    "level": 13,
+    "hp": 96,
+    "mp": 60,
+    "st": 7,
+    "ma": 7,
+    "vi": 3,
+    "ag": 8,
+    "lu": 8,
+    "affinities": {
+      "Weak": [
+        "Fire"
+      ],
+      "Resist": [
+        "Force"
+      ]
+    },
+    "skills": {
+      "Zan": 0,
+      "Begging": 0,
+      "Mazan": 14,
+      "Kamikaze": 15,
+      "Makatora": 16,
+      "Makakaja": 17,
+      "Sukukaja": 18
+    }
+  },
+  "Sarutahiko": {
+    "race": "Jirae",
+    "level": 35,
+    "hp": 312,
+    "mp": 126,
+    "st": 18,
+    "ma": 7,
+    "vi": 17,
+    "ag": 7,
+    "lu": 6,
+    "affinities": {
+      "Null": [
+        "Expel",
+        "Death"
+      ],
+      "Weak": [
+        "Nerve"
+      ]
+    },
+    "skills": {
+      "Beserk": 0,
+      "Lightoma": 0,
+      "Haggle": 36,
+      "Stone Gaze": 37,
+      "Counter": 38,
+      "Focus": 39,
+      "Hell Thrust": 40
+    }
+  },
+  "Titan": {
+    "race": "Jirae",
+    "level": 49,
+    "hp": 396,
+    "mp": 177,
+    "st": 21,
+    "ma": 10,
+    "vi": 17,
+    "ag": 8,
+    "lu": 13,
+    "affinities": {
+      "Null": [
+        "Force"
+      ],
+      "Weak": [
+        "Elec"
+      ]
+    },
+    "skills": {
+      "Beseech": 0,
+      "Guillotine": 0,
+      "Taunt": 0,
+      "Stun Gaze": 50,
+      "Life Surge": 51,
+      "Retaliate": 52,
+      "Fire Breath": 53
+    }
+  },
+  "Gogmagog": {
+    "race": "Jirae",
+    "level": 55,
+    "hp": 456,
+    "mp": 207,
+    "st": 22,
+    "ma": 14,
+    "vi": 21,
+    "ag": 7,
+    "lu": 14,
+    "affinities": {
+      "Null": [
+        "Ice",
+        "Death",
+        "Physical"
+      ],
+      "Weak": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Tornado": 0,
+      "Beserk": 0,
+      "Diarama": 0,
+      "Life Surge": 56,
+      "Tarunda": 57,
+      "Evil Gaze": 58,
+      "Rakunda": 59,
+      "Sukunda": 60
+    }
+  },
+  "Shikigami": {
+    "race": "Brute",
+    "level": 4,
+    "hp": 48,
+    "mp": 27,
+    "st": 5,
+    "ma": 5,
+    "vi": 4,
+    "ag": 5,
+    "lu": 5,
+    "affinities": {
+      "Repel": [
+        "Elec"
+      ],
+      "Weak": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Zio": 0,
+      "Beseech": 0,
+      "Tarunda": 5,
+      "Sukunda": 6,
+      "Anti-Curse": 7,
+      "Tarukaja": 8
+    }
+  },
+  "Momunofu": {
+    "race": "Brute",
+    "level": 20,
+    "hp": 180,
+    "mp": 78,
+    "st": 13,
+    "ma": 6,
+    "vi": 10,
+    "ag": 7,
+    "lu": 8,
+    "affinities": {
+      "Weak": [
+        "Ailments"
+      ],
+      "Resist": [
+        "Physical"
+      ]
+    },
+    "skills": {
+      "Lunge": 0,
+      "Focus": 0,
+      "Life Bonus": 21,
+      "Brutal Slash": 22,
+      "Persuade": 23,
+      "Kamikaze": 24
+    }
+  },
+  "Oni": {
+    "race": "Brute",
+    "level": 25,
+    "hp": 222,
+    "mp": 96,
+    "st": 13,
+    "ma": 7,
+    "vi": 12,
+    "ag": 6,
+    "lu": 7,
+    "affinities": {
+      "Weak": [
+        "Nerve"
+      ],
+      "Resist": [
+        "Physical"
+      ]
+    },
+    "skills": {
+      "Rakunda": 0,
+      "Haggle": 0,
+      "Beserk": 0,
+      "War Cry": 26,
+      "Estoma": 27,
+      "Begging": 28,
+      "Life Gain": 29,
+      "Dark Sword": 30
+    }
+  },
+  "Ikusa": {
+    "race": "Brute",
+    "level": 44,
+    "hp": 342,
+    "mp": 177,
+    "st": 17,
+    "ma": 15,
+    "vi": 13,
+    "ag": 9,
+    "lu": 10,
+    "affinities": {
+      "Null": [
+        "Nerve"
+      ],
+      "Weak": [
+        "Force"
+      ]
+    },
+    "skills": {
+      "Arid Needle": 0,
+      "Petradi": 0,
+      "Analyze": 0,
+      "Begging": 45,
+      "Dark Pledge": 46,
+      "Mighty Gust": 47,
+      "Mudoon": 48
+    }
+  },
+  "Shiki-Ouji": {
+    "race": "Brute",
+    "level": 54,
+    "hp": 420,
+    "mp": 234,
+    "st": 14,
+    "ma": 24,
+    "vi": 16,
+    "ag": 10,
+    "lu": 10,
+    "affinities": {
+      "Repel": [
+        "Expel",
+        "Death"
+      ],
+      "Null": [
+        "Physical"
+      ],
+      "Weak": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Dekaja": 0,
+      "Mamudoon": 0,
+      "Stun Needle": 0,
+      "Brainwash": 55,
+      "Mute Gaze": 56,
+      "Mahamaon": 57,
+      "Megido": 58
+    }
+  },
+  "Kin-Ki": {
+    "race": "Brute",
+    "level": 59,
+    "hp": 498,
+    "mp": 216,
+    "st": 23,
+    "ma": 13,
+    "vi": 24,
+    "ag": 7,
+    "lu": 15,
+    "affinities": {
+      "Weak": [
+        "Curse"
+      ],
+      "Resist": [
+        "Physical"
+      ]
+    },
+    "skills": {
+      "Beserk": 0,
+      "Focus": 0,
+      "Rakukaja": 0,
+      "Taunt": 60,
+      "Sacrifice": 61,
+      "Loan": 62,
+      "Tempest": 63
+    }
+  },
+  "Sui-Ki": {
+    "race": "Brute",
+    "level": 62,
+    "hp": 492,
+    "mp": 258,
+    "st": 18,
+    "ma": 24,
+    "vi": 20,
+    "ag": 14,
+    "lu": 9,
+    "affinities": {
+      "Null": [
+        "Ice",
+        "Death"
+      ],
+      "Weak": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Dekaja": 0,
+      "Glacial Blast": 0,
+      "Ice Boost": 0,
+      "Evil Gaze": 63,
+      "Bufudyne": 64,
+      "Scout": 65,
+      "Life Aid": 66
+    }
+  },
+  "Fuu-Ki": {
+    "race": "Brute",
+    "level": 66,
+    "hp": 516,
+    "mp": 261,
+    "st": 18,
+    "ma": 21,
+    "vi": 20,
+    "ag": 19,
+    "lu": 11,
+    "affinities": {
+      "Null": [
+        "Force",
+        "Death"
+      ]
+    },
+    "skills": {
+      "Mazandyne": 0,
+      "Zandyne": 0,
+      "Binding Cry": 67,
+      "Chaos Blade": 68,
+      "Dark Pledge": 69,
+      "Fog Breath": 70
+    }
+  },
+  "Ongyo-Ki": {
+    "race": "Brute",
+    "level": 81,
+    "hp": 624,
+    "mp": 324,
+    "st": 23,
+    "ma": 27,
+    "vi": 23,
+    "ag": 20,
+    "lu": 11,
+    "affinities": {
+      "Null": [
+        "Death",
+        "Mind",
+        "Curse",
+        "Physical"
+      ],
+      "Weak": [
+        "Expel"
+      ]
+    },
+    "skills": {
+      "Dark Sword": 0,
+      "Beckon Call": 0,
+      "Tentarafoo": 0,
+      "Megido": 82,
+      "Threaten": 83,
+      "Mudoon": 84,
+      "Blight": 85,
+      "Victory Cry": 86
+    }
+  },
+  "Datsue-Ba": {
+    "race": "Femme",
+    "level": 7,
+    "hp": 72,
+    "mp": 45,
+    "st": 4,
+    "ma": 8,
+    "vi": 5,
+    "ag": 4,
+    "lu": 6,
+    "affinities": {
+      "Null": [
+        "Mind",
+        "Nerve"
+      ],
+      "Weak": [
+        "Elec"
+      ]
+    },
+    "skills": {
+      "Needle Rush": 0,
+      "Shibaboo": 0,
+      "Haggle": 8,
+      "Bufu": 9,
+      "Patra": 10,
+      "Dormina": 11
+    }
+  },
+  "Taraka": {
+    "race": "Femme",
+    "level": 20,
+    "hp": 186,
+    "mp": 78,
+    "st": 10,
+    "ma": 6,
+    "vi": 11,
+    "ag": 6,
+    "lu": 7,
+    "affinities": {
+      "Null": [
+        "Nerve"
+      ],
+      "Weak": [
+        "Ice"
+      ]
+    },
+    "skills": {
+      "Shibaboo": 0,
+      "Taunt": 0,
+      "Analyze": 0,
+      "Rakukaja": 21,
+      "Beseech": 22,
+      "Kamikaze": 23,
+      "Zionga": 24,
+      "Heat Wave": 25
+    }
+  },
+  "Shikome": {
+    "race": "Femme",
+    "level": 32,
+    "hp": 246,
+    "mp": 144,
+    "st": 8,
+    "ma": 16,
+    "vi": 9,
+    "ag": 10,
+    "lu": 9,
+    "affinities": {
+      "Null": [
+        "Curse",
+        "Nerve"
+      ],
+      "Weak": [
+        "Fire"
+      ],
+      "Resist": [
+        "Mind"
+      ]
+    },
+    "skills": {
+      "Loan": 0,
+      "Stone Gaze": 0,
+      "Mazanma": 0,
+      "Anti-Death": 33,
+      "Sonic Wave": 34,
+      "Stun Needle": 35,
+      "Drain Attack": 36
+    }
+  },
+  "Yaksini": {
+    "race": "Femme",
+    "level": 43,
+    "hp": 348,
+    "mp": 162,
+    "st": 17,
+    "ma": 11,
+    "vi": 15,
+    "ag": 11,
+    "lu": 9,
+    "affinities": {
+      "Null": [
+        "Force"
+      ],
+      "Weak": [
+        "Elec"
+      ]
+    },
+    "skills": {
+      "Kidnap": 0,
+      "Guillotine": 0,
+      "Riberama": 0,
+      "Binding Cry": 44,
+      "Void Ice": 45,
+      "Tentarafoo": 46,
+      "Retaliate": 47
+    }
+  },
+  "Dakini": {
+    "race": "Femme",
+    "level": 52,
+    "hp": 414,
+    "mp": 189,
+    "st": 21,
+    "ma": 11,
+    "vi": 17,
+    "ag": 13,
+    "lu": 10,
+    "affinities": {
+      "Weak": [
+        "Ice"
+      ],
+      "Resist": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Dismal Tune": 0,
+      "Life Aid": 0,
+      "Mamudo": 53,
+      "Kidnap": 54,
+      "Agidyne": 55,
+      "Blight": 56,
+      "Endure": 57
+    }
+  },
+  "Clotho": {
+    "race": "Femme",
+    "level": 58,
+    "hp": 438,
+    "mp": 240,
+    "st": 16,
+    "ma": 22,
+    "vi": 15,
+    "ag": 16,
+    "lu": 12,
+    "affinities": {
+      "Null": [
+        "Expel",
+        "Death"
+      ]
+    },
+    "skills": {
+      "Hell Gaze": 0,
+      "Mahama": 0,
+      "Nag": 0,
+      "Mediarahan": 59,
+      "Eternal Rest": 60,
+      "Allure": 61,
+      "Samarecarm": 62
+    }
+  },
+  "Lachesis": {
+    "race": "Femme",
+    "level": 63,
+    "hp": 492,
+    "mp": 267,
+    "st": 16,
+    "ma": 26,
+    "vi": 19,
+    "ag": 10,
+    "lu": 15,
+    "affinities": {
+      "Null": [
+        "Ailments"
+      ]
+    },
+    "skills": {
+      "Makakaja": 0,
+      "Rakukaja": 0,
+      "Makarakarn": 0,
+      "Sukukaja": 64,
+      "Dormina": 65,
+      "Tetrakarn": 66,
+      "Rakunda": 67,
+      "Trafuri": 68
+    }
+  },
+  "Atropos": {
+    "race": "Femme",
+    "level": 67,
+    "hp": 504,
+    "mp": 285,
+    "st": 16,
+    "ma": 28,
+    "vi": 17,
+    "ag": 15,
+    "lu": 14,
+    "affinities": {
+      "Null": [
+        "Expel",
+        "Death",
+        "Mind"
+      ]
+    },
+    "skills": {
+      "Ziodyne": 0,
+      "Zandyne": 0,
+      "Bufudyne": 0,
+      "Elec Boost": 68,
+      "Force Boost": 69,
+      "Ice Boost": 70,
+      "Mana Surge": 71,
+      "Megidola": 72
+    }
+  },
+  "Rangda": {
+    "race": "Femme",
+    "level": 72,
+    "hp": 552,
+    "mp": 288,
+    "st": 19,
+    "ma": 24,
+    "vi": 20,
+    "ag": 14,
+    "lu": 15,
+    "affinities": {
+      "Repel": [
+        "Physical"
+      ],
+      "Weak": [
+        "Elec"
+      ]
+    },
+    "skills": {
+      "Debilitate": 0,
+      "Stun Claw": 0,
+      "Dekaja": 0,
+      "Mana Refil": 73,
+      "Makajamon": 74,
+      "Hellfire": 75,
+      "Avenge": 76
+    }
+  },
+  "Arahabaki": {
+    "race": "Vile",
+    "level": 30,
+    "hp": 294,
+    "mp": 120,
+    "st": 14,
+    "ma": 10,
+    "vi": 19,
+    "ag": 6,
+    "lu": 9,
+    "affinities": {
+      "Repel": [
+        "Ice"
+      ],
+      "Null": [
+        "Expel",
+        "Death",
+        "Physical"
+      ],
+      "Weak": [
+        "Fire",
+        "Elec",
+        "Force",
+        "Ailments"
+      ]
+    },
+    "skills": {
+      "Mabufula": 31,
+      "Stone Gaze": 32,
+      "Mudo": 33,
+      "Panic Voice": 34,
+      "Drain Attack": 35
+    }
+  },
+  "Baphomet": {
+    "race": "Vile",
+    "level": 33,
+    "hp": 300,
+    "mp": 150,
+    "st": 8,
+    "ma": 17,
+    "vi": 17,
+    "ag": 9,
+    "lu": 10,
+    "affinities": {
+      "Repel": [
+        "Death"
+      ],
+      "Weak": [
+        "Expel"
+      ]
+    },
+    "skills": {
+      "Makakaja": 0,
+      "Beckon Call": 0,
+      "Dark Pledge": 0,
+      "Evil Gaze": 34,
+      "Maragion": 35,
+      "Eternal Rest": 36,
+      "Dismal Tune": 37
+    }
+  },
+  "Pazuzu": {
+    "race": "Vile",
+    "level": 45,
+    "hp": 390,
+    "mp": 192,
+    "st": 16,
+    "ma": 19,
+    "vi": 20,
+    "ag": 10,
+    "lu": 8,
+    "affinities": {
+      "Null": [
+        "Death"
+      ],
+      "Weak": [
+        "Ice"
+      ]
+    },
+    "skills": {
+      "Hell Gaze": 0,
+      "Mediarama": 0,
+      "Intimidate": 0,
+      "Void Force": 46,
+      "Arid Needle": 47,
+      "Tentarafoo": 48,
+      "Wet Wind": 49
+    }
+  },
+  "Girimehkala": {
+    "race": "Vile",
+    "level": 58,
+    "hp": 474,
+    "mp": 225,
+    "st": 22,
+    "ma": 17,
+    "vi": 21,
+    "ag": 13,
+    "lu": 13,
+    "affinities": {
+      "Repel": [
+        "Physical"
+      ],
+      "Null": [
+        "Death"
+      ]
+    },
+    "skills": {
+      "Binding Cry": 0,
+      "Chaos Blade": 0,
+      "Dismal Tune": 59,
+      "Shock": 60,
+      "Debilitate": 61,
+      "Tempest": 62
+    }
+  },
+  "Tao Tie": {
+    "race": "Vile",
+    "level": 65,
+    "hp": 516,
+    "mp": 258,
+    "st": 18,
+    "ma": 21,
+    "vi": 21,
+    "ag": 15,
+    "lu": 18,
+    "affinities": {
+      "Null": [
+        "Death"
+      ],
+      "Weak": [
+        "Curse"
+      ]
+    },
+    "skills": {
+      "Megido": 0,
+      "Tetraja": 0,
+      "Loan": 0,
+      "Life Drain": 66,
+      "Hell Gaze": 67,
+      "Mana Aid": 68,
+      "Makajamon": 69
+    }
+  },
+  "Samael": {
+    "race": "Vile",
+    "level": 73,
+    "hp": 576,
+    "mp": 297,
+    "st": 19,
+    "ma": 26,
+    "vi": 23,
+    "ag": 19,
+    "lu": 16,
+    "affinities": {
+      "Repel": [
+        "Expel",
+        "Death"
+      ],
+      "Weak": [
+        "Elec"
+      ]
+    },
+    "skills": {
+      "Mahamaon": 0,
+      "Mamudoon": 0,
+      "Proeminence": 0,
+      "Samarecarm": 74,
+      "Tetrakarn": 75,
+      "Avenge": 76,
+      "Phys Repel": 77
+    }
+  },
+  "Mada": {
+    "race": "Vile",
+    "level": 83,
+    "hp": 678,
+    "mp": 312,
+    "st": 30,
+    "ma": 21,
+    "vi": 30,
+    "ag": 14,
+    "lu": 16,
+    "affinities": {
+      "Null": [
+        "Death"
+      ],
+      "Weak": [
+        "Curse"
+      ],
+      "Drain": [
+        "Physical"
+      ]
+    },
+    "skills": {
+      "Debilitate": 0,
+      "Hades Blast": 0,
+      "Threaten": 0,
+      "Intoxicate": 84,
+      "Diarahan": 85,
+      "Tarukaja": 86,
+      "Life Surge": 87
+    }
+  },
+  "Loki": {
+    "race": "Tyrant",
+    "level": 52,
+    "hp": 432,
+    "mp": 216,
+    "st": 16,
+    "ma": 20,
+    "vi": 20,
+    "ag": 12,
+    "lu": 16,
+    "affinities": {
+      "Resist": [
+        "Physical",
+        "Magic",
+        "Ailments"
+      ]
+    },
+    "skills": {
+      "Mabufudyne": 0,
+      "Makajamon": 0,
+      "Mischief": 53,
+      "Charisma": 54,
+      "Trafuri": 55,
+      "Mudoon": 56,
+      "Mana Gain": 57
+    }
+  },
+  "Abaddon": {
+    "race": "Tyrant",
+    "level": 69,
+    "hp": 564,
+    "mp": 279,
+    "st": 26,
+    "ma": 24,
+    "vi": 25,
+    "ag": 13,
+    "lu": 14,
+    "affinities": {
+      "Repel": [
+        "Death"
+      ],
+      "Null": [
+        "Expel"
+      ],
+      "Resist": [
+        "Magic"
+      ]
+    },
+    "skills": {
+      "Attack All": 0,
+      "Panic Voice": 0,
+      "Mabufudyne": 70,
+      "Intimidate": 71,
+      "Retaliate": 72,
+      "Ice Repel": 73,
+      "Hades Blast": 74
+    }
+  },
+  "Surt": {
+    "race": "Tyrant",
+    "level": 74,
+    "hp": 588,
+    "mp": 282,
+    "st": 28,
+    "ma": 20,
+    "vi": 24,
+    "ag": 15,
+    "lu": 19,
+    "affinities": {
+      "Null": [
+        "Death",
+        "Mind",
+        "Nerve"
+      ],
+      "Weak": [
+        "Ice"
+      ],
+      "Drain": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Hellfire": 0,
+      "War Cry": 0,
+      "Heat Wave": 0,
+      "Elec Drain": 75,
+      "Attack All": 76,
+      "Wooing": 77,
+      "Ragnarok": 78
+    }
+  },
+  "Aciel": {
+    "race": "Tyrant",
+    "level": 77,
+    "hp": 624,
+    "mp": 306,
+    "st": 29,
+    "ma": 25,
+    "vi": 27,
+    "ag": 14,
+    "lu": 16,
+    "affinities": {
+      "Repel": [
+        "Death"
+      ],
+      "Null": [
+        "Expel"
+      ],
+      "Resist": [
+        "Magic"
+      ]
+    },
+    "skills": {
+      "Life Surge": 78,
+      "Tetrakarn": 79,
+      "Hell Fang": 80,
+      "Victory Cry": 81
+    }
+  },
+  "Beelzebub": {
+    "race": "Tyrant",
+    "level": 84,
+    "hp": 666,
+    "mp": 333,
+    "st": 32,
+    "ma": 27,
+    "vi": 27,
+    "ag": 19,
+    "lu": 19,
+    "affinities": {
+      "Repel": [
+        "Expel",
+        "Death"
+      ],
+      "Null": [
+        "Ailments"
+      ]
+    },
+    "skills": {
+      "Maziodyne": 0,
+      "Megidolaon": 0,
+      "Watchful": 85,
+      "Elec Boost": 86
+    }
+  },
+  "Mot": {
+    "race": "Tyrant",
+    "level": 91,
+    "hp": 732,
+    "mp": 369,
+    "st": 25,
+    "ma": 32,
+    "vi": 31,
+    "ag": 16,
+    "lu": 19,
+    "affinities": {
+      "Null": [
+        "Expel",
+        "Death",
+        "Ailments"
+      ],
+      "Weak": [
+        "Elec"
+      ]
+    },
+    "skills": {
+      "Maragidyne": 0,
+      "Mazandyne": 0,
+      "Makakaja": 0,
+      "Beckon Call": 92,
+      "Intimidate": 93,
+      "Force Drain": 94,
+      "Megidolaon": 95
+    }
+  },
+  "Beelzebub (fly)": {
+    "race": "Tyrant",
+    "level": 95,
+    "hp": 738,
+    "mp": 372,
+    "st": 35,
+    "ma": 29,
+    "vi": 28,
+    "ag": 29,
+    "lu": 21,
+    "affinities": {
+      "Repel": [
+        "Expel",
+        "Death"
+      ],
+      "Null": [
+        "Ailments"
+      ]
+    },
+    "skills": {
+      "Maziodyne": 0,
+      "Megidolaon": 0,
+      "Death Flies": 96,
+      "Victory Cry": 97
+    }
+  },
+  "Lilim": {
+    "race": "Night",
+    "level": 8,
+    "hp": 78,
+    "mp": 48,
+    "st": 4,
+    "ma": 8,
+    "vi": 5,
+    "ag": 7,
+    "lu": 4,
+    "affinities": {
+      "Null": [
+        "Elec"
+      ],
+      "Weak": [
+        "Ice"
+      ]
+    },
+    "skills": {
+      "Rakunda": 0,
+      "Sexy Gaze": 0,
+      "Analyze": 9,
+      "Dark Pledge": 10,
+      "Tarunda": 11,
+      "Mazio": 12
+    }
+  },
+  "Fomor": {
+    "race": "Night",
+    "level": 18,
+    "hp": 192,
+    "mp": 75,
+    "st": 8,
+    "ma": 7,
+    "vi": 14,
+    "ag": 4,
+    "lu": 5,
+    "affinities": {
+      "Null": [
+        "Ice"
+      ],
+      "Weak": [
+        "Elec"
+      ]
+    },
+    "skills": {
+      "Bufu": 0,
+      "Lullaby": 0,
+      "Lunge": 19,
+      "Life Bonus": 20,
+      "Kidnap": 21,
+      "Mabufu": 22,
+      "Beserk": 23
+    }
+  },
+  "Incubus": {
+    "race": "Night",
+    "level": 25,
+    "hp": 198,
+    "mp": 117,
+    "st": 7,
+    "ma": 14,
+    "vi": 8,
+    "ag": 9,
+    "lu": 7,
+    "affinities": {
+      "Null": [
+        "Mind",
+        "Curse"
+      ],
+      "Weak": [
+        "Force"
+      ]
+    },
+    "skills": {
+      "Flatter": 0,
+      "Sexy Gaze": 0,
+      "Wing Buffet": 0,
+      "Stun Claw": 26,
+      "Wooing": 27,
+      "Evil Gaze": 28,
+      "Life Drain": 29
+    }
+  },
+  "Succubus": {
+    "race": "Night",
+    "level": 37,
+    "hp": 288,
+    "mp": 159,
+    "st": 10,
+    "ma": 16,
+    "vi": 11,
+    "ag": 10,
+    "lu": 10,
+    "affinities": {
+      "Null": [
+        "Mind"
+      ],
+      "Weak": [
+        "Expel"
+      ]
+    },
+    "skills": {
+      "Dormina": 0,
+      "Analyze": 0,
+      "Nag": 0,
+      "Eternal Rest": 38,
+      "Sexy Gaze": 39,
+      "Life Drain": 40,
+      "Tentarafoo": 41
+    }
+  },
+  "Kaiwan": {
+    "race": "Night",
+    "level": 47,
+    "hp": 372,
+    "mp": 198,
+    "st": 14,
+    "ma": 19,
+    "vi": 15,
+    "ag": 11,
+    "lu": 8,
+    "affinities": {
+      "Null": [
+        "Death"
+      ],
+      "Weak": [
+        "Expel"
+      ],
+      "Resist": [
+        "Magic"
+      ]
+    },
+    "skills": {
+      "Mudoon": 0,
+      "Charm Bite": 0,
+      "Sonic Wave": 0,
+      "Sukukaja": 48,
+      "Trade": 49,
+      "Rakukaja": 50,
+      "Evil Gaze": 51,
+      "Void Expel": 52
+    }
+  },
+  "Loa": {
+    "race": "Night",
+    "level": 53,
+    "hp": 414,
+    "mp": 225,
+    "st": 16,
+    "ma": 22,
+    "vi": 16,
+    "ag": 12,
+    "lu": 7,
+    "affinities": {
+      "Null": [
+        "Death",
+        "Curse",
+        "Nerve"
+      ],
+      "Weak": [
+        "Expel"
+      ]
+    },
+    "skills": {
+      "Mamudo": 0,
+      "Tetraja": 0,
+      "Dekunda": 0,
+      "Venom Bite": 54,
+      "Stone Gaze": 55,
+      "Last Resort": 56,
+      "Mamudoon": 57,
+      "Debilitate": 58
+    }
+  },
+  "Queen Mab": {
+    "race": "Night",
+    "level": 56,
+    "hp": 408,
+    "mp": 231,
+    "st": 12,
+    "ma": 21,
+    "vi": 12,
+    "ag": 12,
+    "lu": 19,
+    "affinities": {
+      "Resist": [
+        "Magic"
+      ]
+    },
+    "skills": {
+      "Mediarama": 0,
+      "Ziodyne": 0,
+      "Tarukaja": 0,
+      "Diarahan": 57,
+      "Makarakarn": 58,
+      "Dormina": 59,
+      "Tetraja": 60,
+      "Maziodyne": 61
+    }
+  },
+  "Black Frost": {
+    "race": "Night",
+    "level": 66,
+    "hp": 474,
+    "mp": 270,
+    "st": 24,
+    "ma": 24,
+    "vi": 13,
+    "ag": 16,
+    "lu": 24,
+    "affinities": {
+      "Repel": [
+        "Fire",
+        "Death"
+      ],
+      "Null": [
+        "Expel"
+      ],
+      "Resist": [
+        "Physical"
+      ],
+      "Drain": [
+        "Ice"
+      ]
+    },
+    "skills": {
+      "Mabufudyne": 0,
+      "Mamudoon": 0,
+      "Beserk": 0,
+      "Diarama": 67,
+      "Void Curse": 68,
+      "Void Nerve": 69,
+      "Void Mind": 70
+    }
+  },
+  "Nyx": {
+    "race": "Night",
+    "level": 70,
+    "hp": 522,
+    "mp": 291,
+    "st": 15,
+    "ma": 27,
+    "vi": 17,
+    "ag": 16,
+    "lu": 15,
+    "affinities": {
+      "Resist": [
+        "Magic"
+      ]
+    },
+    "skills": {
+      "Dormina": 0,
+      "Makarakarn": 0,
+      "Eternal Rest": 0,
+      "Debilitate": 71,
+      "Mana Drain": 72,
+      "Glacial Blast": 73,
+      "Fire Drain": 74
+    }
+  },
+  "Lilith": {
+    "race": "Night",
+    "level": 80,
+    "hp": 606,
+    "mp": 330,
+    "st": 17,
+    "ma": 30,
+    "vi": 21,
+    "ag": 17,
+    "lu": 15,
+    "affinities": {
+      "Null": [
+        "Expel",
+        "Death"
+      ],
+      "Resist": [
+        "Magic"
+      ]
+    },
+    "skills": {
+      "Allure": 0,
+      "Hell Gaze": 0,
+      "Maziodyne": 0,
+      "Mana Drain": 81,
+      "Hell Fang": 82,
+      "Mana Surge": 83,
+      "Megidola": 84
+    }
+  },
+  "Zhen": {
+    "race": "Wilder",
+    "level": 6,
+    "hp": 72,
+    "mp": 36,
+    "st": 4,
+    "ma": 6,
+    "vi": 6,
+    "ag": 5,
+    "lu": 5,
+    "affinities": {
+      "Null": [
+        "Death"
+      ],
+      "Weak": [
+        "Fire"
+      ],
+      "Resist": [
+        "Ailments"
+      ]
+    },
+    "skills": {
+      "Mute Gaze": 0,
+      "Posumudi": 0,
+      "Zan": 0,
+      "Toxic String": 7,
+      "War Cry": 8,
+      "Wing Buffet": 9,
+      "Mazan": 10,
+      "Void Nerve": 11
+    }
+  },
+  "Bicorn": {
+    "race": "Wilder",
+    "level": 15,
+    "hp": 150,
+    "mp": 63,
+    "st": 10,
+    "ma": 6,
+    "vi": 10,
+    "ag": 5,
+    "lu": 4,
+    "affinities": {
+      "Null": [
+        "Death"
+      ],
+      "Weak": [
+        "Elec"
+      ],
+      "Resist": [
+        "Ailments"
+      ]
+    },
+    "skills": {
+      "Sukukaja": 0,
+      "Charm Bite": 0,
+      "Maragi": 16,
+      "Bright Might": 17,
+      "Anti-Nerve": 18,
+      "Pulinpa": 19,
+      "Stun Gaze": 20
+    }
+  },
+  "Raiju": {
+    "race": "Wilder",
+    "level": 25,
+    "hp": 204,
+    "mp": 120,
+    "st": 8,
+    "ma": 15,
+    "vi": 9,
+    "ag": 8,
+    "lu": 5,
+    "affinities": {
+      "Null": [
+        "Death"
+      ],
+      "Weak": [
+        "Force"
+      ],
+      "Drain": [
+        "Elec"
+      ]
+    },
+    "skills": {
+      "Zionga": 0,
+      "Lightoma": 0,
+      "Feral Claw": 26,
+      "Shock": 27,
+      "Needle Rush": 28,
+      "Elec Boost": 29
+    }
+  },
+  "Nue": {
+    "race": "Wilder",
+    "level": 31,
+    "hp": 258,
+    "mp": 120,
+    "st": 14,
+    "ma": 9,
+    "vi": 12,
+    "ag": 8,
+    "lu": 8,
+    "affinities": {
+      "Null": [
+        "Ice",
+        "Death"
+      ],
+      "Weak": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Stun Claw": 0,
+      "War Cry": 0,
+      "Ice Breath": 32,
+      "Panic Voice": 33,
+      "Ice Boost": 34,
+      "Mamudo": 35
+    }
+  },
+  "Mothman": {
+    "race": "Wilder",
+    "level": 43,
+    "hp": 366,
+    "mp": 183,
+    "st": 11,
+    "ma": 18,
+    "vi": 18,
+    "ag": 8,
+    "lu": 8,
+    "affinities": {
+      "Null": [
+        "Fire",
+        "Death"
+      ],
+      "Weak": [
+        "Elec"
+      ]
+    },
+    "skills": {
+      "Evil Gaze": 0,
+      "Stun Claw": 0,
+      "Trafuri": 44,
+      "Panic Voice": 45,
+      "Fire Breath": 46,
+      "Void Elec": 47
+    }
+  },
+  "Hresvelgr": {
+    "race": "Wilder",
+    "level": 75,
+    "hp": 564,
+    "mp": 285,
+    "st": 20,
+    "ma": 20,
+    "vi": 19,
+    "ag": 25,
+    "lu": 11,
+    "affinities": {
+      "Repel": [
+        "Ice"
+      ],
+      "Null": [
+        "Death"
+      ],
+      "Weak": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Mabufudyne": 0,
+      "Ice Boost": 0,
+      "Wing Buffet": 0,
+      "Anti-Phys": 76,
+      "Iron Claw": 77,
+      "Life Refil": 78,
+      "Elec Repel": 79
+    }
+  },
+  "Preta": {
+    "race": "Haunt",
+    "level": 4,
+    "hp": 54,
+    "mp": 24,
+    "st": 5,
+    "ma": 4,
+    "vi": 5,
+    "ag": 6,
+    "lu": 4,
+    "affinities": {
+      "Null": [
+        "Death"
+      ],
+      "Weak": [
+        "Magic"
+      ]
+    },
+    "skills": {
+      "Feral Claw": 0,
+      "Sukukaja": 0,
+      "Agi": 5,
+      "Deathtouch": 6,
+      "Venom Claw": 7,
+      "Fog Breath": 8
+    }
+  },
+  "Choronzon": {
+    "race": "Haunt",
+    "level": 11,
+    "hp": 156,
+    "mp": 45,
+    "st": 9,
+    "ma": 4,
+    "vi": 15,
+    "ag": 1,
+    "lu": 2,
+    "affinities": {
+      "Null": [
+        "Death"
+      ],
+      "Weak": [
+        "Force",
+        "Expel"
+      ],
+      "Resist": [
+        "Physical"
+      ],
+      "Drain": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Agi": 0,
+      "Sukunda": 0,
+      "Fire Breath": 12,
+      "Beserk": 13,
+      "Trafuri": 14,
+      "Stone Gaze": 15
+    }
+  },
+  "Yaka": {
+    "race": "Haunt",
+    "level": 17,
+    "hp": 150,
+    "mp": 81,
+    "st": 8,
+    "ma": 10,
+    "vi": 8,
+    "ag": 5,
+    "lu": 6,
+    "affinities": {
+      "Null": [
+        "Death"
+      ],
+      "Weak": [
+        "Ice",
+        "Expel"
+      ]
+    },
+    "skills": {
+      "Deathtouch": 0,
+      "Tarunda": 0,
+      "Mazio": 18,
+      "Taunt": 19,
+      "Dia": 20,
+      "Venom Claw": 21,
+      "Diarama": 22
+    }
+  },
+  "Chatterskull": {
+    "race": "Haunt",
+    "level": 20,
+    "hp": 156,
+    "mp": 96,
+    "st": 7,
+    "ma": 12,
+    "vi": 6,
+    "ag": 7,
+    "lu": 8,
+    "affinities": {
+      "Null": [
+        "Death"
+      ],
+      "Weak": [
+        "Expel",
+        "Curse"
+      ],
+      "Drain": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Sukunda": 0,
+      "Stun Gaze": 0,
+      "Dekaja": 21,
+      "Lullaby": 22,
+      "Last Resort": 23,
+      "Hell Thrust": 24
+    }
+  },
+  "Pisaca": {
+    "race": "Haunt",
+    "level": 28,
+    "hp": 270,
+    "mp": 114,
+    "st": 8,
+    "ma": 10,
+    "vi": 17,
+    "ag": 7,
+    "lu": 6,
+    "affinities": {
+      "Null": [
+        "Death",
+        "Mind",
+        "Curse"
+      ],
+      "Weak": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Venom Bite": 0,
+      "Sukunda": 0,
+      "Stun Gaze": 29,
+      "Life Drain": 30,
+      "Sonic Wave": 31,
+      "Dekunda": 32,
+      "Mazionga": 33
+    }
+  },
+  "Legion": {
+    "race": "Haunt",
+    "level": 49,
+    "hp": 420,
+    "mp": 180,
+    "st": 19,
+    "ma": 11,
+    "vi": 21,
+    "ag": 9,
+    "lu": 9,
+    "affinities": {
+      "Repel": [
+        "Death"
+      ],
+      "Weak": [
+        "Elec",
+        "Expel"
+      ]
+    },
+    "skills": {
+      "Tetrakarn": 0,
+      "Deathtouch": 0,
+      "Anti-Phys": 50,
+      "Tempest": 51,
+      "Hell Gaze": 52,
+      "Pulinpa": 53,
+      "Mamudoon": 54
+    }
+  },
+  "Rakshasa": {
+    "race": "Haunt",
+    "level": 63,
+    "hp": 474,
+    "mp": 249,
+    "st": 22,
+    "ma": 20,
+    "vi": 16,
+    "ag": 11,
+    "lu": 14,
+    "affinities": {
+      "Repel": [
+        "Death"
+      ],
+      "Weak": [
+        "Elec",
+        "Expel"
+      ]
+    },
+    "skills": {
+      "Stun Claw": 0,
+      "Sacrifice": 0,
+      "Life Drain": 64,
+      "Rakunda": 65,
+      "Retaliate": 66,
+      "Megido": 67,
+      "Beserk": 68
+    }
+  },
+  "Will O'Wisp": {
+    "race": "Foul",
+    "level": 1,
+    "hp": 30,
+    "mp": 18,
+    "st": 4,
+    "ma": 5,
+    "vi": 4,
+    "ag": 5,
+    "lu": 3,
+    "affinities": {
+      "Null": [
+        "Death"
+      ],
+      "Weak": [
+        "Expel",
+        "Magic"
+      ],
+      "Resist": [
+        "Physical"
+      ]
+    },
+    "skills": {
+      "Needle Rush": 0,
+      "Zan": 2,
+      "Riberama": 3,
+      "Deathtouch": 4,
+      "Last Resort": 5,
+      "Makakaja": 6
+    }
+  },
+  "Slime": {
+    "race": "Foul",
+    "level": 6,
+    "hp": 54,
+    "mp": 33,
+    "st": 6,
+    "ma": 5,
+    "vi": 3,
+    "ag": 5,
+    "lu": 7,
+    "affinities": {
+      "Null": [
+        "Death"
+      ],
+      "Weak": [
+        "Fire",
+        "Expel"
+      ],
+      "Resist": [
+        "Physical"
+      ]
+    },
+    "skills": {
+      "Deathtouch": 0,
+      "Feral Bite": 0,
+      "Sukunda": 7,
+      "Last Resort": 8,
+      "War Cry": 9,
+      "Sonic Wave": 10
+    }
+  },
+  "Mou-Ryo": {
+    "race": "Foul",
+    "level": 7,
+    "hp": 66,
+    "mp": 42,
+    "st": 6,
+    "ma": 7,
+    "vi": 4,
+    "ag": 5,
+    "lu": 5,
+    "affinities": {
+      "Null": [
+        "Death"
+      ],
+      "Weak": [
+        "Expel"
+      ]
+    },
+    "skills": {
+      "Pulinpa": 0,
+      "Toxic String": 0,
+      "Zan": 8,
+      "Deathtouch": 9,
+      "Mana Aid": 10,
+      "Mazan": 11
+    }
+  },
+  "Blob": {
+    "race": "Foul",
+    "level": 16,
+    "hp": 156,
+    "mp": 66,
+    "st": 8,
+    "ma": 6,
+    "vi": 10,
+    "ag": 5,
+    "lu": 7,
+    "affinities": {
+      "Null": [
+        "Death"
+      ],
+      "Weak": [
+        "Ice",
+        "Expel"
+      ],
+      "Resist": [
+        "Physical"
+      ]
+    },
+    "skills": {
+      "Tarunda": 0,
+      "Last Resort": 0,
+      "Toxic String": 17,
+      "Marin Karin": 18,
+      "Mana Drain": 19,
+      "Zanma": 20
+    }
+  },
+  "Black Ooze": {
+    "race": "Foul",
+    "level": 28,
+    "hp": 264,
+    "mp": 111,
+    "st": 11,
+    "ma": 9,
+    "vi": 16,
+    "ag": 6,
+    "lu": 6,
+    "affinities": {
+      "Null": [
+        "Death"
+      ],
+      "Weak": [
+        "Elec",
+        "Expel"
+      ],
+      "Resist": [
+        "Physical"
+      ]
+    },
+    "skills": {
+      "Mute Gaze": 0,
+      "Charm Bite": 0,
+      "Sacrifice": 29,
+      "Deathtouch": 30,
+      "Mana Drain": 31,
+      "Panic Voice": 32,
+      "Anti-Expel": 33
+    }
+  },
+  "Phantom": {
+    "race": "Foul",
+    "level": 42,
+    "hp": 336,
+    "mp": 177,
+    "st": 9,
+    "ma": 17,
+    "vi": 14,
+    "ag": 15,
+    "lu": 7,
+    "affinities": {
+      "Null": [
+        "Death"
+      ],
+      "Weak": [
+        "Force",
+        "Expel"
+      ],
+      "Resist": [
+        "Physical"
+      ]
+    },
+    "skills": {
+      "Mana Drain": 0,
+      "Last Resort": 0,
+      "Mazionga": 43,
+      "Kamikaze": 44,
+      "Tarunda": 45,
+      "Dekaja": 46,
+      "Ziodyne": 47
+    }
+  },
+  "Sakahagi": {
+    "race": "Foul",
+    "level": 45,
+    "hp": 360,
+    "mp": 186,
+    "st": 17,
+    "ma": 17,
+    "vi": 15,
+    "ag": 15,
+    "lu": 11,
+    "affinities": {
+      "Null": [
+        "Expel",
+        "Death",
+        "Ailments"
+      ]
+    },
+    "skills": {
+      "Maragion": 0,
+      "Mabufula": 0,
+      "Mazionga": 0,
+      "Mazanma": 0,
+      "Panic Voice": 0,
+      "War Cry": 0,
+      "Void Force": 46,
+      "Void Elec": 47
+    }
+  },
+  "Shadow": {
+    "race": "Foul",
+    "level": 52,
+    "hp": 420,
+    "mp": 216,
+    "st": 10,
+    "ma": 20,
+    "vi": 18,
+    "ag": 16,
+    "lu": 8,
+    "affinities": {
+      "Null": [
+        "Death"
+      ],
+      "Weak": [
+        "Force",
+        "Expel"
+      ],
+      "Resist": [
+        "Physical"
+      ]
+    },
+    "skills": {
+      "Anti-Phys": 0,
+      "Mudoon": 0,
+      "Mazionga": 53,
+      "Mana Drain": 54,
+      "Makakaja": 55,
+      "Tarukaja": 56,
+      "Rakukaja": 57,
+      "Sukukaja": 58
+    }
+  },
+  "Uriel": {
+    "race": "Seraph",
+    "level": 73,
+    "hp": 558,
+    "mp": 291,
+    "st": 25,
+    "ma": 24,
+    "vi": 20,
+    "ag": 21,
+    "lu": 18,
+    "affinities": {
+      "Repel": [
+        "Expel"
+      ],
+      "Null": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Heat Wave": 74,
+      "Drain Attack": 75,
+      "Megidola": 76,
+      "Radiance": 77
+    }
+  },
+  "Raphael": {
+    "race": "Seraph",
+    "level": 84,
+    "hp": 636,
+    "mp": 330,
+    "st": 26,
+    "ma": 26,
+    "vi": 22,
+    "ag": 28,
+    "lu": 17,
+    "affinities": {
+      "Repel": [
+        "Expel"
+      ],
+      "Null": [
+        "Fire",
+        "Force"
+      ]
+    },
+    "skills": {
+      "Makarakarn": 0,
+      "Tetrakarn": 0,
+      "Mana Refil": 0,
+      "Prayer": 85,
+      "Mahamaon": 86,
+      "Stasis Blade": 87,
+      "Holy Wrath": 88
+    }
+  },
+  "Gabriel": {
+    "race": "Seraph",
+    "level": 87,
+    "hp": 654,
+    "mp": 351,
+    "st": 24,
+    "ma": 30,
+    "vi": 22,
+    "ag": 24,
+    "lu": 22,
+    "affinities": {
+      "Repel": [
+        "Expel"
+      ],
+      "Null": [
+        "Fire",
+        "Elec",
+        "Force"
+      ]
+    },
+    "skills": {
+      "Samarecarm": 0,
+      "Ziodyne": 0,
+      "Maziodyne": 0,
+      "Blight": 88,
+      "Persuade": 89,
+      "Elec Boost": 90,
+      "Radiance": 91
+    }
+  },
+  "Michael": {
+    "race": "Seraph",
+    "level": 90,
+    "hp": 678,
+    "mp": 360,
+    "st": 29,
+    "ma": 30,
+    "vi": 23,
+    "ag": 25,
+    "lu": 18,
+    "affinities": {
+      "Repel": [
+        "Expel"
+      ],
+      "Null": [
+        "Magic"
+      ]
+    },
+    "skills": {
+      "Deathbound": 0,
+      "Endure": 0,
+      "Victory Cry": 91,
+      "Tarukaja": 92,
+      "Mana Surge": 93,
+      "Megidolaon": 94
+    }
+  },
+  "Metatron": {
+    "race": "Seraph",
+    "level": 95,
+    "hp": 744,
+    "mp": 387,
+    "st": 32,
+    "ma": 34,
+    "vi": 29,
+    "ag": 24,
+    "lu": 16,
+    "affinities": {
+      "Null": [
+        "Expel",
+        "Death",
+        "Ailments"
+      ],
+      "Resist": [
+        "All"
+      ]
+    },
+    "skills": {
+      "Mahamaon": 0,
+      "Megidolaon": 0,
+      "Tarukaja": 0,
+      "Makakaja": 0,
+      "Debilitate": 0,
+      "Holy Wrath": 96,
+      "Fire of Sinai": 97,
+      "Victory Cry": 98
+    }
+  },
+  "Valkyrie": {
+    "race": "Wargod",
+    "level": 33,
+    "hp": 282,
+    "mp": 135,
+    "st": 15,
+    "ma": 12,
+    "vi": 14,
+    "ag": 12,
+    "lu": 10,
+    "affinities": {
+      "Null": [
+        "Expel"
+      ],
+      "Drain": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Guillotine": 34,
+      "Soul Recruit": 35,
+      "Counter": 36,
+      "Might": 37
+    }
+  },
+  "Ganesha": {
+    "race": "Wargod",
+    "level": 58,
+    "hp": 474,
+    "mp": 237,
+    "st": 21,
+    "ma": 21,
+    "vi": 21,
+    "ag": 12,
+    "lu": 13,
+    "affinities": {
+      "Null": [
+        "Ice",
+        "Force",
+        "Expel"
+      ],
+      "Weak": [
+        "Elec"
+      ]
+    },
+    "skills": {
+      "Endure": 59,
+      "Force Drain": 60,
+      "Debilitate": 61,
+      "Tempest": 62
+    }
+  },
+  "Kurama": {
+    "race": "Genma",
+    "level": 38,
+    "hp": 306,
+    "mp": 165,
+    "st": 13,
+    "ma": 17,
+    "vi": 13,
+    "ag": 17,
+    "lu": 8,
+    "affinities": {
+      "Null": [
+        "Expel"
+      ],
+      "Drain": [
+        "Force"
+      ]
+    },
+    "skills": {
+      "Violet Flash": 39,
+      "Force Boost": 40,
+      "Fog Breath": 41,
+      "Wind Cutter": 42,
+      "Starlight": 43
+    }
+  },
+  "Hanuman": {
+    "race": "Genma",
+    "level": 46,
+    "hp": 366,
+    "mp": 174,
+    "st": 17,
+    "ma": 12,
+    "vi": 15,
+    "ag": 19,
+    "lu": 13,
+    "affinities": {
+      "Null": [
+        "Expel"
+      ],
+      "Resist": [
+        "Physical"
+      ]
+    },
+    "skills": {
+      "Rakukaja": 47,
+      "Endure": 48,
+      "Kidnap": 49,
+      "Life Surge": 50
+    }
+  },
+  "Cu Chulainn": {
+    "race": "Genma",
+    "level": 52,
+    "hp": 414,
+    "mp": 201,
+    "st": 21,
+    "ma": 15,
+    "vi": 17,
+    "ag": 14,
+    "lu": 15,
+    "affinities": {
+      "Repel": [
+        "Force"
+      ],
+      "Null": [
+        "Expel"
+      ]
+    },
+    "skills": {
+      "Zandyne": 53,
+      "Thunderclap": 54,
+      "Charisma": 55,
+      "Blight": 56,
+      "Attack All": 57
+    }
+  },
+  "Gui Xian": {
+    "race": "Dragon",
+    "level": 24,
+    "hp": 240,
+    "mp": 105,
+    "st": 9,
+    "ma": 11,
+    "vi": 16,
+    "ag": 4,
+    "lu": 10,
+    "affinities": {
+      "Repel": [
+        "Expel"
+      ],
+      "Drain": [
+        "Ice"
+      ],
+      "Weak": [
+        "Elec"
+      ]
+    },
+    "skills": {
+      "Bufula": 25,
+      "Estoma": 26,
+      "Ice Boost": 27,
+      "Ice Breath": 28
+    }
+  },
+  "Long": {
+    "race": "Dragon",
+    "level": 44,
+    "hp": 396,
+    "mp": 171,
+    "st": 15,
+    "ma": 13,
+    "vi": 22,
+    "ag": 9,
+    "lu": 11,
+    "affinities": {
+      "Drain": [
+        "Ice"
+      ],
+      "Null": [
+        "Expel"
+      ],
+      "Weak": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Life Gain": 45,
+      "Stone Bite": 46,
+      "Ice Breath": 47,
+      "Violet Flash": 48
+    }
+  },
+  "Makami": {
+    "race": "Avatar",
+    "level": 22,
+    "hp": 186,
+    "mp": 108,
+    "st": 11,
+    "ma": 14,
+    "vi": 9,
+    "ag": 7,
+    "lu": 11,
+    "affinities": {
+      "Repel": [
+        "Expel"
+      ],
+      "Null": [
+        "Fire"
+      ]
+    },
+    "skills": {
+      "Void Mind": 23,
+      "Petradi": 24,
+      "Diarama": 25,
+      "Recarm": 26
+    }
+  },
+  "Cai-Zhi": {
+    "race": "Avatar",
+    "level": 26,
+    "hp": 210,
+    "mp": 114,
+    "st": 13,
+    "ma": 12,
+    "vi": 9,
+    "ag": 9,
+    "lu": 7,
+    "affinities": {
+      "Null": [
+        "Ice",
+        "Expel"
+      ],
+      "Weak": [
+        "Ailments"
+      ]
+    },
+    "skills": {
+      "Toxic Cloud": 0,
+      "Mutudi": 0,
+      "Hell Thrust": 0,
+      "Hamaon": 27,
+      "Scout": 28,
+      "Paraladi": 29,
+      "Mabufula": 30
+    }
+  },
+  "Yatagarasu": {
+    "race": "Avatar",
+    "level": 46,
+    "hp": 348,
+    "mp": 195,
+    "st": 13,
+    "ma": 19,
+    "vi": 12,
+    "ag": 16,
+    "lu": 10,
+    "affinities": {
+      "Repel": [
+        "Force",
+        "Expel"
+      ]
+    },
+    "skills": {
+      "Mana Aid": 0,
+      "Violet Flash": 0,
+      "Wind Cutter": 47,
+      "Mana Gain": 48,
+      "Force Boost": 49,
+      "Recarmdra": 50
+    }
+  },
+  "Barong": {
+    "race": "Avatar",
+    "level": 60,
+    "hp": 456,
+    "mp": 246,
+    "st": 22,
+    "ma": 22,
+    "vi": 16,
+    "ag": 16,
+    "lu": 14,
+    "affinities": {
+      "Repel": [
+        "Expel"
+      ],
+      "Drain": [
+        "Elec"
+      ],
+      "Weak": [
+        "Death"
+      ]
+    },
+    "skills": {
+      "Bolt Storm": 0,
+      "Binding Cry": 0,
+      "Iron Claw": 61,
+      "Mediarahan": 62,
+      "Glacial Blast": 63,
+      "Void Death": 64
+    }
+  },
+  "Garuda": {
+    "race": "Avian",
+    "level": 63,
+    "hp": 492,
+    "mp": 243,
+    "st": 22,
+    "ma": 18,
+    "vi": 19,
+    "ag": 24,
+    "lu": 12,
+    "affinities": {
+      "Repel": [
+        "Expel"
+      ],
+      "Null": [
+        "Curse",
+        "Nerve"
+      ],
+      "Weak": [
+        "Death"
+      ]
+    },
+    "skills": {
+      "Mahamaon": 64,
+      "Persuade": 65,
+      "Wind Cutter": 66,
+      "Endure": 67
+    }
+  },
+  "Gurr": {
+    "race": "Raptor",
+    "level": 63,
+    "hp": 492,
+    "mp": 255,
+    "st": 18,
+    "ma": 22,
+    "vi": 19,
+    "ag": 24,
+    "lu": 12,
+    "affinities": {
+      "Repel": [
+        "Death"
+      ],
+      "Null": [
+        "Nerve",
+        "Mind"
+      ],
+      "Weak": [
+        "Expel"
+      ]
+    },
+    "skills": {
+      "Zandyne": 0,
+      "Fog Breath": 0,
+      "Mazandyne": 0,
+      "Mamudoon": 64,
+      "Flatter": 65,
+      "Wind Cutter": 66,
+      "Bolt Storm": 67,
+      "Avenge": 68
+    }
+  },
+  "Albion": {
+    "race": "Entity",
+    "level": 64,
+    "hp": 534,
+    "mp": 252,
+    "st": 25,
+    "ma": 20,
+    "vi": 25,
+    "ag": 10,
+    "lu": 16,
+    "affinities": {
+      "Null": [
+        "Physical",
+        "Ice",
+        "Expel"
+      ]
+    },
+    "skills": {
+      "Drain Attack": 65,
+      "Phys Drain": 66,
+      "Recarmdra": 67,
+      "Hades Blast": 68
+    }
+  },
+  "Matador": {
+    "race": "Fiend",
+    "level": 30,
+    "hp": 246,
+    "mp": 117,
+    "st": 12,
+    "ma": 9,
+    "vi": 11,
+    "ag": 19,
+    "lu": 9,
+    "affinities": {
+      "Null": [
+        "Force",
+        "Expel",
+        "Death",
+        "Ailments"
+      ]
+    },
+    "skills": {
+      "Mazan": 0,
+      "Andalucia": 0,
+      "Dekunda": 31,
+      "Focus": 32,
+      "Taunt": 33,
+      "Red Capote": 34
+    }
+  },
+  "Daisoujou": {
+    "race": "Fiend",
+    "level": 37,
+    "hp": 288,
+    "mp": 174,
+    "st": 12,
+    "ma": 21,
+    "vi": 11,
+    "ag": 13,
+    "lu": 10,
+    "affinities": {
+      "Repel": [
+        "Expel",
+        "Death"
+      ],
+      "Drain": [
+        "Curse",
+        "Mind"
+      ],
+      "Null": [
+        "Nerve"
+      ]
+    },
+    "skills": {
+      "Meditation": 0,
+      "Mahamaon": 0,
+      "Mamudoon": 38,
+      "Prayer": 39,
+      "Preach": 40
+    }
+  },
+  "Hell Biker": {
+    "race": "Fiend",
+    "level": 42,
+    "hp": 336,
+    "mp": 168,
+    "st": 17,
+    "ma": 14,
+    "vi": 14,
+    "ag": 17,
+    "lu": 10,
+    "affinities": {
+      "Drain": [
+        "Force"
+      ],
+      "Null": [
+        "Fire",
+        "Expel",
+        "Death",
+        "Ailments"
+      ]
+    },
+    "skills": {
+      "Hell Spin": 0,
+      "Hell Burner": 0,
+      "Hell Exhaust": 42,
+      "Attack All": 43
+    }
+  },
+  "White Rider": {
+    "race": "Fiend",
+    "level": 52,
+    "hp": 408,
+    "mp": 207,
+    "st": 23,
+    "ma": 17,
+    "vi": 16,
+    "ag": 18,
+    "lu": 13,
+    "affinities": {
+      "Null": [
+        "Fire",
+        "Expel",
+        "Death",
+        "Ailments"
+      ]
+    },
+    "skills": {
+      "God's Bow": 0,
+      "Proeminence": 0,
+      "Tetraja": 53,
+      "Dekaja": 54,
+      "Mana Aid": 55
+    }
+  },
+  "Red Rider": {
+    "race": "Fiend",
+    "level": 55,
+    "hp": 438,
+    "mp": 228,
+    "st": 23,
+    "ma": 21,
+    "vi": 18,
+    "ag": 15,
+    "lu": 13,
+    "affinities": {
+      "Null": [
+        "Elec",
+        "Force",
+        "Expel",
+        "Death",
+        "Ailments"
+      ]
+    },
+    "skills": {
+      "Terrorblade": 0,
+      "Wind Cutter": 0,
+      "Bolt Storm": 56,
+      "Dekunda": 57,
+      "Avenge": 58
+    }
+  },
+  "Black Rider": {
+    "race": "Fiend",
+    "level": 61,
+    "hp": 462,
+    "mp": 258,
+    "st": 22,
+    "ma": 25,
+    "vi": 16,
+    "ag": 20,
+    "lu": 13,
+    "affinities": {
+      "Drain": [
+        "Ice"
+      ],
+      "Null": [
+        "Expel",
+        "Death",
+        "Ailments"
+      ]
+    },
+    "skills": {
+      "Soul Divide": 0,
+      "Glacial Blast": 0,
+      "Mana Drain": 62,
+      "Mamudoon": 63,
+      "Megidola": 64,
+      "Mana Surge": 65,
+      "Megidolaon": 66
+    }
+  },
+  "Pale Rider": {
+    "race": "Fiend",
+    "level": 63,
+    "hp": 486,
+    "mp": 267,
+    "st": 24,
+    "ma": 26,
+    "vi": 18,
+    "ag": 17,
+    "lu": 13,
+    "affinities": {
+      "Null": [
+        "Ice",
+        "Expel",
+        "Death",
+        "Ailments"
+      ]
+    },
+    "skills": {
+      "Pestilence": 0,
+      "Mabufudyne": 0,
+      "Eternal Rest": 64,
+      "Blight": 65,
+      "Dark Might": 66,
+      "Bright Might": 67
+    }
+  },
+  "The Harlot": {
+    "race": "Fiend",
+    "level": 69,
+    "hp": 528,
+    "mp": 279,
+    "st": 23,
+    "ma": 24,
+    "vi": 19,
+    "ag": 19,
+    "lu": 19,
+    "affinities": {
+      "Repel": [
+        "Physical"
+      ],
+      "Drain": [
+        "Elec"
+      ],
+      "Null": [
+        "Expel",
+        "Death",
+        "Curse",
+        "Mind",
+        "Nerve"
+      ]
+    },
+    "skills": {
+      "Death Lust": 0,
+      "Maziodyne": 0,
+      "Makajamon": 0,
+      "Dekunda": 70,
+      "Focus": 71,
+      "Bolt Storm": 72,
+      "Beast Roar": 73
+    }
+  },
+  "Trumpeter": {
+    "race": "Fiend",
+    "level": 77,
+    "hp": 588,
+    "mp": 324,
+    "st": 21,
+    "ma": 31,
+    "vi": 21,
+    "ag": 24,
+    "lu": 15,
+    "affinities": {
+      "Null": [
+        "Expel",
+        "Death",
+        "Ailments"
+      ]
+    },
+    "skills": {
+      "Holy Melody": 0,
+      "Maragidyne": 0,
+      "Mabufudyne": 0,
+      "Maziodyne": 0,
+      "Mazandyne": 0,
+      "Makakaja": 77,
+      "Dekaja": 78,
+      "Megidolaon": 79,
+      "Evil Melody": 80
+    }
+  },
+  "Dante": {
+    "race": "Fiend",
+    "level": 80,
+    "hp": 612,
+    "mp": 306,
+    "st": 25,
+    "ma": 22,
+    "vi": 22,
+    "ag": 25,
+    "lu": 16,
+    "affinities": {
+      "Null": [
+        "Expel",
+        "Death",
+        "Ailments"
+      ],
+      "Resist": [
+        "Physical",
+        "Magic"
+      ]
+    },
+    "skills": {
+      "E & I": 0,
+      "Rebellion": 0,
+      "Roundtrip": 0,
+      "Whirlwind": 0,
+      "Holy Star": 0,
+      "Provoke": 0,
+      "Never Yield": 0,
+      "Intimidate": 0,
+      "Bullet-Time": 81,
+      "Stinger": 82,
+      "Son's Oath": 83,
+      "Showtime": 84
+    }
+  }
+}
