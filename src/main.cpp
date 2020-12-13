@@ -10,7 +10,7 @@ int main()
     json j;
     Parser parser;
 
-    ifstream file("data/demons.json");
+    ifstream file("../data/demons.json");
     file >> j;
 
     for (json::iterator it = j.begin(); it != j.end(); ++it)

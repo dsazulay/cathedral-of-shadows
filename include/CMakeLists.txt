@@ -1,0 +1,1 @@
+add_library(nlohmann_json INTERFACE nlohmann/json.hpp)
